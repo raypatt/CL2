@@ -6,12 +6,13 @@ from gensim.models import Word2Vec
 import sys
 import re
 
-filePath = sys.argv[1]
+filePath = "train.csv"
 listOfTokens1 = []
 listOfTokens2 = []
 
 listOfScores = []
 listOfTokens = []
+print ("STARTING")
 with open(filePath, 'r') as trainingData:
     for line in trainingData:
         elements = line.split(',')
@@ -39,6 +40,7 @@ input_list = []
 listOfEmbeddings = []
 
 #loop through each sentence/score pair
+def main(): 
 for sentence, score in zip(listOfTokens, listOfScores):
     #loop through each word in each sentence to get the embeddings
     for word in sentence:
@@ -48,5 +50,6 @@ for sentence, score in zip(listOfTokens, listOfScores):
             listOfEmbeddings.append(0)
     input_list.append([listOfEmbeddings, score])
     listOfEmbeddings = []
+    
+return input_list
 
-print(input_list)
