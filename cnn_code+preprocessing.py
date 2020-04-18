@@ -36,21 +36,21 @@ def get_tokens(filePath):
     
     listOfScores = []
     listOfTokens = []
-    with open(filePath, 'r') as trainingData:
-        for line in trainingData:
-            elements = line.split(',')
-            edited_headline1 = re.sub(r'<[a-zA-Z]*\/>',elements[2], elements[1])
-            edited_headline2 = re.sub(r'<[a-zA-Z]*\/>',elements[6], elements[5])
-            for word in edited_headline1.split(' '):
-                listOfTokens1.append(word)
-            for word in edited_headline2.split(' '):
-                listOfTokens2.append(word)
-            listOfTokens.append(listOfTokens1)
-            listOfTokens.append(listOfTokens2)
-            listOfScores.append(elements[4])
-            listOfScores.append(elements[8])
-            listOfTokens1 = []
-            listOfTokens2 = []
+    with open(filePath, 'r', encoding = "ISO-8859-1") as trainingData:
+      for line in trainingData:
+        elements = line.split(',')
+        edited_headline1 = re.sub(r'<[a-zA-Z]*\/>',elements[2], elements[1])
+        edited_headline2 = re.sub(r'<[a-zA-Z]*\/>',elements[6], elements[5])
+        for word in edited_headline1.split(' '):
+            listOfTokens1.append(word)
+        for word in edited_headline2.split(' '):
+            listOfTokens2.append(word)
+        listOfTokens.append(listOfTokens1)
+        listOfTokens.append(listOfTokens2)
+        listOfScores.append(elements[4])
+        listOfScores.append(elements[8])
+        listOfTokens1 = []
+        listOfTokens2 = []
     return listOfTokens, listOfScores
 
 def max_sentence_length(listOfTokens): 
@@ -89,7 +89,7 @@ def convert_token_to_embedding(listOfTokens, listOfScores):
     
     #loop through each sentence/score pair
     idx = 0
-    total = len(zip(listOfTokens[2:], listOfScores[2:]))
+    #total = len(zip(listOfTokens[2:], listOfScores[2:]))
     for idx, sentence in enumerate(listOfTokens):
         listOfEmbeddings = []
         #print idx/float(len(listOfTokens))
@@ -112,12 +112,12 @@ def convert_token_to_embedding(listOfTokens, listOfScores):
     return input_list, input_score, vocab
 
 def get_input(filePath): 
-    print "Getting tokens..."
+    print("Getting tokens...")
     listOfTokens, listOfScores = get_tokens(filePath)
-    print "Converting tokens to embeddings..."
+    print("Converting tokens to embeddings...")
     input_list, input_scores, vocab = convert_token_to_embedding(listOfTokens, listOfScores)
     input_list = input_list[2:]
-    print "Finished converted tokens to embeddings..."
+    print("Finished converted tokens to embeddings...")
     
     
     return listOfTokens[2:], input_list, input_scores, vocab
@@ -237,7 +237,9 @@ def train(model, inputs, outputs, optimizer, criterion):
             optimizer.step()
             
             epoch_loss += loss.item()
-    print correct/float(total)
+    print(correct/float(total))
+    print("correct: ",correct)
+    print("total: ",total)
     
     return epoch_loss / len(inputs)
         
@@ -277,7 +279,7 @@ def main():
     
     input_scores = torch.tensor(input_scores, dtype=torch.float)
     
-    print "Doing setup..."
+    print("Doing setup...")
     INPUT_DIM = max_sentence_length(tokens)
     EMBEDDING_DIM = 100
     N_FILTERS = 100
@@ -290,11 +292,11 @@ def main():
     inputs = torch.stack(inputs)
     
     ###split inputs and input_scores into X groups..
-    print "Make batches..."
+    print("Make batches...")
     inputs = torch.split(inputs, 10)
     input_scores = torch.split(input_scores, 10)
     
-    print "Make model.."
+    print("Make model..")
     model = CNN(INPUT_DIM, EMBEDDING_DIM, N_FILTERS, FILTER_SIZES, OUTPUT_DIM, DROPOUT)
     
     import torch.optim as optim
@@ -310,18 +312,10 @@ def main():
     best_valid_loss = float('inf')
     
     for epoch in range(N_EPOCHS):
-        print "Epoch: " + str(epoch)
+        print("Epoch: " + str(epoch))
         train_loss = train(model, inputs, input_scores, optimizer, criterion)
-        print train_loss
+        print(train_loss)
         
     return model, inputs, input_scores
-    
-    
-       
-        
-    
 
-    
-    
-    
 model, inputs, input_scores = main()
