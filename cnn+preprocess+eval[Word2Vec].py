@@ -345,11 +345,17 @@ def evaluate(filePath, model, vector_model, max_length, vocab) :
             c1_scores = model(torch.stack(c1_list))
             c2_scores = model(torch.stack(c2_list))
             
+            
+            ### Test if headlines are correctly paired
+            ## This prints the first word embedding of the first test in both clusters
+            ## It prints the cluster ID before the first word embedding of the first test of that cluster
+            print (str(chunk_idx) + str((c1_list[0][0])))
+            print (str(chunk_idx) + str((c2_list[0][0])))
+            
             actual_labels = []
             for idx, c1_score in enumerate(c1_scores):
                 label = 0
                 
-                print (tmp_tests[chunk_idx][idx])
                 
                 if c1_score > c2_scores[idx]: 
                     label = 1
@@ -365,6 +371,7 @@ def evaluate(filePath, model, vector_model, max_length, vocab) :
                 actual = chunk_labels[idx]
                 if predicted == actual: total_correct += 1
                 total += 1
+                
     print (total_correct/float(total))
                 
         
@@ -427,7 +434,7 @@ def chunks(lst, n):
         yield lst[i:i + n]
         
 def main(): 
-    tokens, inputs, input_scores, vocab, vector_model, max_length = get_input("train.csv")
+    tokens, inputs, input_scores, vocab, vector_model, max_length = get_input("tmp2.csv")
     
     input_scores = torch.tensor(input_scores, dtype=torch.float)
     
@@ -459,7 +466,7 @@ def main():
     criterion = criterion.to(device)
     
     
-    N_EPOCHS = 5
+    N_EPOCHS = 1
 
     best_valid_loss = float('inf')
     
