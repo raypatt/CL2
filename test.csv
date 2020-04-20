@@ -1,0 +1,329 @@
+﻿id,original1,edit1,grades1,meanGrade1,original2,edit2,grades2,meanGrade2,label
+9902-8974,White <House/> moves to distance Trump from shutdown,person,2202,1.2,White House moves to distance <Trump/> from shutdown,computer,1010,0.4,1
+9902-14867,White <House/> moves to distance Trump from shutdown,person,2202,1.2,White House moves to <distance/> Trump from shutdown,save,1101,0.6,1
+8974-14867,White House moves to distance <Trump/> from shutdown,computer,1010,0.4,White House moves to <distance/> Trump from shutdown,save,1101,0.6,2
+7626-8683,White House official says GOP has deal on <tax/> cuts,beef,31212,1.8,White House official says GOP has <deal/> on tax cuts,bets,20110,0.8,1
+7626-8081,White House official says GOP has deal on <tax/> cuts,beef,31212,1.8,White House official says GOP has deal on <tax/> cuts,deli,32222,2.2,2
+8683-8081,White House official says GOP has <deal/> on tax cuts,bets,20110,0.8,White House official says GOP has deal on <tax/> cuts,deli,32222,2.2,2
+3757-1862,White House physician : <Trump/> is in excellent physical and mental health,painter,0,0, <White/> House physician : Trump is in excellent physical and mental health,Out,23220,1.8,2
+3757-9827,White House physician : <Trump/> is in excellent physical and mental health,painter,0,0, <White/> House physician : Trump is in excellent physical and mental health,pink,0,0,0
+1862-9827, <White/> House physician : Trump is in excellent physical and mental health,Out,23220,1.8, <White/> House physician : Trump is in excellent physical and mental health,pink,0,0,1
+12538-4829,White House princeling Jared Kushner ~ <stripped/> down and on the verge of exile,partied,12023,1.6,White House princeling Jared Kushner ~ stripped down and on the verge of <exile/> ,tears,2010,0.6,1
+12538-8137,White House princeling Jared Kushner ~ <stripped/> down and on the verge of exile,partied,12023,1.6,White <House/> princeling Jared Kushner ~ stripped down and on the verge of exile,bear,100,0.2,1
+4829-8137,White House princeling Jared Kushner ~ stripped down and on the verge of <exile/> ,tears,2010,0.6,White <House/> princeling Jared Kushner ~ stripped down and on the verge of exile,bear,100,0.2,1
+12973-261,White <House/> Red Scare,people,111,0.6,White <House/> Red Scare,barn,101,0.4,1
+12973-9299,White <House/> Red Scare,people,111,0.6,White House <Red Scare/> ,Asylum,13200,1.2,2
+261-9299,White <House/> Red Scare,barn,101,0.4,White House <Red Scare/> ,Asylum,13200,1.2,2
+4581-5030,White House says there ‚Äôs no need for new Russia <sanctions/> ,dolls,22202,1.6,White House says there ‚Äôs no need for new Russia <sanctions/> ,vacations,1232,1.6,0
+4581-921,White House says there ‚Äôs no need for new Russia <sanctions/> ,dolls,22202,1.6,White House says there ‚Äôs no need for new Russia <sanctions/> ,celebration,3002,1,1
+5030-921,White House says there ‚Äôs no need for new Russia <sanctions/> ,vacations,1232,1.6,White House says there ‚Äôs no need for new Russia <sanctions/> ,celebration,3002,1,1
+11049-14703, <White/> House says Trump is n't considering firing Mueller,Waffle,22332,2.4,White House <says/> Trump is n't considering firing Mueller,jokes,2001,0.6,1
+11049-1301, <White/> House says Trump is n't considering firing Mueller,Waffle,22332,2.4, <White/> House says Trump is n't considering firing Mueller,green,1,0.2,1
+14703-1301,White House <says/> Trump is n't considering firing Mueller,jokes,2001,0.6, <White/> House says Trump is n't considering firing Mueller,green,1,0.2,1
+717-7079,White House says Trump unaware of Flynn 's foreign <agent/> work,fish,11102,1,White House says Trump unaware of Flynn 's foreign <agent/> work,welding,100,0.2,1
+717-11745,White House says Trump unaware of Flynn 's foreign <agent/> work,fish,11102,1,White House says Trump unaware of Flynn 's foreign <agent/> work,singing,31111,1.4,2
+7079-11745,White House says Trump unaware of Flynn 's foreign <agent/> work,welding,100,0.2,White House says Trump unaware of Flynn 's foreign <agent/> work,singing,31111,1.4,2
+10456-2503,White House <spokesman/> : ‚Äò I ca n't speak to the future of Scott Pruitt ‚Äô,psychic,11021,1,White House spokesman : ‚Äò I ca n't speak to the <future/> of Scott Pruitt ‚Äô,dentures,1123,1.4,2
+10456-14166,White House <spokesman/> : ‚Äò I ca n't speak to the future of Scott Pruitt ‚Äô,psychic,11021,1,White House spokesman : ‚Äò I ca n't speak to the <future/> of Scott Pruitt ‚Äô,wardrobe,21221,1.6,2
+2503-14166,White House spokesman : ‚Äò I ca n't speak to the <future/> of Scott Pruitt ‚Äô,dentures,1123,1.4,White House spokesman : ‚Äò I ca n't speak to the <future/> of Scott Pruitt ‚Äô,wardrobe,21221,1.6,2
+4379-7469,White House <spokesman/> calls Trump a ' real-life Superman ',clown,22220,1.6,White House spokesman calls <Trump/> a ' real-life Superman ',spiderman,10322,1.6,0
+4379-7027,White House <spokesman/> calls Trump a ' real-life Superman ',clown,22220,1.6,White <House/> spokesman calls Trump a ' real-life Superman ',Supremacist,1002,0.6,1
+7469-7027,White House spokesman calls <Trump/> a ' real-life Superman ',spiderman,10322,1.6,White <House/> spokesman calls Trump a ' real-life Superman ',Supremacist,1002,0.6,1
+5169-12064,"White House temporarily removes "" We the People "" petition <tool/> ",toy,0,0,"White House temporarily removes "" We the <People/> "" petition tool",Witches,31010,1,2
+11437-5791,White House under fire for suggesting general 's <remarks/> should not be questioned,lies,100,0.2,White House under fire for suggesting general 's <remarks/> should not be questioned,weight,30311,1.6,2
+11437-1465,White House under fire for suggesting general 's <remarks/> should not be questioned,lies,100,0.2,White House under fire for suggesting general 's <remarks/> should not be questioned,answers,10,0.2,0
+5791-1465,White House under fire for suggesting general 's <remarks/> should not be questioned,weight,30311,1.6,White House under fire for suggesting general 's <remarks/> should not be questioned,answers,10,0.2,1
+4546-3350,White House Was Warned of Aide 's <Background/> Months Earlier Than Acknowledged,Odor,31213,2,White House Was Warned of <Aide/> 's Background Months Earlier Than Acknowledged,computer,20,0.4,1
+4546-6270,White House Was Warned of Aide 's <Background/> Months Earlier Than Acknowledged,Odor,31213,2,White <House/> Was Warned of Aide 's Background Months Earlier Than Acknowledged,dove,100,0.2,1
+3350-6270,White House Was Warned of <Aide/> 's Background Months Earlier Than Acknowledged,computer,20,0.4,White <House/> Was Warned of Aide 's Background Months Earlier Than Acknowledged,dove,100,0.2,1
+3550-6807,White House Weighs <Replacing/> Tillerson With Pompeo,swapping,10001,0.4,White House Weighs <Replacing/> Tillerson With Pompeo,matchmaking,10033,1.4,2
+3550-4559,White House Weighs <Replacing/> Tillerson With Pompeo,swapping,10001,0.4,White House Weighs <Replacing/> Tillerson With Pompeo,crossbreeding,10211,1,2
+6807-4559,White House Weighs <Replacing/> Tillerson With Pompeo,matchmaking,10033,1.4,White House Weighs <Replacing/> Tillerson With Pompeo,crossbreeding,10211,1,1
+2151-4480,White House works to release Republican <memo/> despite FBI warning,soundtrack,12323,2.2,White House works to release Republican <memo/> despite FBI warning,kraken,13330,2,1
+2151-4880,White House works to release Republican <memo/> despite FBI warning,soundtrack,12323,2.2,White House works to release Republican memo despite FBI <warning/> ,footnotes,1,0.2,1
+4480-4880,White House works to release Republican <memo/> despite FBI warning,kraken,13330,2,White House works to release Republican memo despite FBI <warning/> ,footnotes,1,0.2,1
+11829-11518,White Nationalist <Blames/> Trump in Campaign Rally Assault Suit,Joins,1101,0.6,White Nationalist Blames <Trump/> in Campaign Rally Assault Suit,Toddler,10032,1.2,2
+11829-2337,White Nationalist <Blames/> Trump in Campaign Rally Assault Suit,Joins,1101,0.6,White Nationalist Blames <Trump/> in Campaign Rally Assault Suit,kitten,22122,1.8,2
+11518-2337,White Nationalist Blames <Trump/> in Campaign Rally Assault Suit,Toddler,10032,1.2,White Nationalist Blames <Trump/> in Campaign Rally Assault Suit,kitten,22122,1.8,2
+9783-2571,White <supremacist/> activity on the rise on college campuses since election,marshmallow,13232,2.2,White <supremacist/> activity on the rise on college campuses since election,cookie,100,0.2,1
+9783-9285,White <supremacist/> activity on the rise on college campuses since election,marshmallow,13232,2.2,White supremacist activity on the rise on college campuses since <election/> ,Halloween,1000,0.2,1
+2571-9285,White <supremacist/> activity on the rise on college campuses since election,cookie,100,0.2,White supremacist activity on the rise on college campuses since <election/> ,Halloween,1000,0.2,0
+2870-11146,White <supremacist/> hate crimes surge in LA amid growing swastika graffiti,musician,111,0.6,White supremacist <hate/> crimes surge in LA amid growing swastika graffiti,art,30102,1.2,2
+2870-13041,White <supremacist/> hate crimes surge in LA amid growing swastika graffiti,musician,111,0.6,White supremacist hate <crimes/> surge in LA amid growing swastika graffiti,plugs,10,0.2,1
+11146-13041,White supremacist <hate/> crimes surge in LA amid growing swastika graffiti,art,30102,1.2,White supremacist hate <crimes/> surge in LA amid growing swastika graffiti,plugs,10,0.2,1
+4220-7203,Who is Carter Page and why did the FBI suspect he was a Russian <agent/> ?,pet,21112,1.4,Who is Carter Page and why did the FBI suspect he was a Russian <agent/> ?,doll,3132121223,2,2
+7214-13561,Who is Sergey Kislyak ~ and how did he become the hottest <meeting/> ticket in Washington ?,dance,32010,1.2,Who is Sergey Kislyak ~ and how did he <become/> the hottest meeting ticket in Washington ?,eat,21000,0.6,1
+7214-10789,Who is Sergey Kislyak ~ and how did he become the hottest <meeting/> ticket in Washington ?,dance,32010,1.2,Who is Sergey Kislyak ~ and how did he become the hottest <meeting/> ticket in Washington ?,quilting,0,0,1
+13561-10789,Who is Sergey Kislyak ~ and how did he <become/> the hottest meeting ticket in Washington ?,eat,21000,0.6,Who is Sergey Kislyak ~ and how did he become the hottest <meeting/> ticket in Washington ?,quilting,0,0,1
+2259-12579,Who Is The Mystery <Man/> Behind @realDonaldTrump ? ( Besides The President ),Megalomaniac,21203,1.6,Who Is The Mystery <Man/> Behind @realDonaldTrump ? ( Besides The President ),turnip,1230,1.2,1
+2259-6907,Who Is The Mystery <Man/> Behind @realDonaldTrump ? ( Besides The President ),Megalomaniac,21203,1.6,Who Is The Mystery Man Behind @realDonaldTrump ? ( Besides The <President/> ),devil,13121,1.6,0
+12579-6907,Who Is The Mystery <Man/> Behind @realDonaldTrump ? ( Besides The President ),turnip,1230,1.2,Who Is The Mystery Man Behind @realDonaldTrump ? ( Besides The <President/> ),devil,13121,1.6,2
+2852-13388,Whoops ! FBI ‚Äò Loses ‚Äô Five Months of Texts Between FBI Agents Peter Strzok and Lisa <Page/> ,Hodgepodge,10000,0.2,Whoops ! FBI ‚Äò <Loses/> ‚Äô Five Months of Texts Between FBI Agents Peter Strzok and Lisa Page,discards,1010,0.4,2
+2852-8143,Whoops ! FBI ‚Äò Loses ‚Äô Five Months of Texts Between FBI Agents Peter Strzok and Lisa <Page/> ,Hodgepodge,10000,0.2,Whoops ! FBI ‚Äò Loses ‚Äô Five Months of <Texts/> Between FBI Agents Peter Strzok and Lisa Page,cuddling,2131,1.4,2
+13388-8143,Whoops ! FBI ‚Äò <Loses/> ‚Äô Five Months of Texts Between FBI Agents Peter Strzok and Lisa Page,discards,1010,0.4,Whoops ! FBI ‚Äò Loses ‚Äô Five Months of <Texts/> Between FBI Agents Peter Strzok and Lisa Page,cuddling,2131,1.4,2
+11302-10302,Who really is Trump ? President ‚Äôs Nevada speech wildly different from Arizona <rally/> ,circus,10200,0.6,Who really is Trump ? President ‚Äôs Nevada speech wildly different from Arizona <rally/> ,temperature,2110,0.8,2
+11302-10534,Who really is Trump ? President ‚Äôs Nevada speech wildly different from Arizona <rally/> ,circus,10200,0.6,Who really is Trump ? President ‚Äôs Nevada speech wildly different from <Arizona/> rally,pep,10101,0.6,0
+10302-10534,Who really is Trump ? President ‚Äôs Nevada speech wildly different from Arizona <rally/> ,temperature,2110,0.8,Who really is Trump ? President ‚Äôs Nevada speech wildly different from <Arizona/> rally,pep,10101,0.6,1
+14554-8669,Who to believe on UK spy attack : official <condemnation/> or Trump 's equivocation ?,reality,12200,1,Who to believe on UK spy attack : official condemnation or Trump 's <equivocation/> ?,astrologer,33221,2.2,2
+14554-3734,Who to believe on UK spy attack : official <condemnation/> or Trump 's equivocation ?,reality,12200,1,Who to believe on UK <spy/> attack : official condemnation or Trump 's equivocation ?,allergy,1001,0.4,1
+8669-3734,Who to believe on UK spy attack : official condemnation or Trump 's <equivocation/> ?,astrologer,33221,2.2,Who to believe on UK <spy/> attack : official condemnation or Trump 's equivocation ?,allergy,1001,0.4,1
+461-14656,Who will Democrats sacrificial <lamb/> be in 2020 ?,virgin,2122,1.4,Who will Democrats sacrificial <lamb/> be in 2020 ?,pastry,113,1,1
+461-6650,Who will Democrats sacrificial <lamb/> be in 2020 ?,virgin,2122,1.4,Who will Democrats sacrificial <lamb/> be in 2020 ?,goat,30020,1,1
+14656-6650,Who will Democrats sacrificial <lamb/> be in 2020 ?,pastry,113,1,Who will Democrats sacrificial <lamb/> be in 2020 ?,goat,30020,1,0
+1691-13739,Who ‚Äôs more cynically using religion : Trump or his religious right <boosters/> ?,eyelid,313,1.4,Who ‚Äôs more cynically using <religion/> : Trump or his religious right boosters ?,truth,20020,0.8,1
+1691-11409,Who ‚Äôs more cynically using religion : Trump or his religious right <boosters/> ?,eyelid,313,1.4,Who ‚Äôs more cynically using religion : Trump or his religious right <boosters/> ?,Hairpiece,10131,1.2,1
+13739-11409,Who ‚Äôs more cynically using <religion/> : Trump or his religious right boosters ?,truth,20020,0.8,Who ‚Äôs more cynically using religion : Trump or his religious right <boosters/> ?,Hairpiece,10131,1.2,2
+4186-12806,Why Access To Planned <Parenthood/> Is Vital And Must Be Protected,seance,210,0.6,Why Access To Planned <Parenthood/> Is Vital And Must Be Protected,picnics,31030,1.4,2
+4186-6184,Why Access To Planned <Parenthood/> Is Vital And Must Be Protected,seance,210,0.6,Why Access To Planned <Parenthood/> Is Vital And Must Be Protected,haircuts,10311,1.2,2
+12806-6184,Why Access To Planned <Parenthood/> Is Vital And Must Be Protected,picnics,31030,1.4,Why Access To Planned <Parenthood/> Is Vital And Must Be Protected,haircuts,10311,1.2,1
+14537-10214,Why African millennials ca n't <get/> enough of Bitcoin,understand,30223,2,Why African millennials ca n't <get/> enough of Bitcoin,steal,110,0.4,1
+14537-1389,Why African millennials ca n't <get/> enough of Bitcoin,understand,30223,2,Why African millennials ca n't <get/> enough of Bitcoin,eat,102,0.6,1
+10214-1389,Why African millennials ca n't <get/> enough of Bitcoin,steal,110,0.4,Why African millennials ca n't <get/> enough of Bitcoin,eat,102,0.6,2
+2789-1108,Why <Americans/> hate paying taxes,Poodles,22211,1.6,Why Americans hate paying <taxes/> ,alimony,31100,1,1
+2789-6291,Why <Americans/> hate paying taxes,Poodles,22211,1.6,Why Americans <hate/> paying taxes,love,101,0.4,1
+1108-6291,Why Americans hate paying <taxes/> ,alimony,31100,1,Why Americans <hate/> paying taxes,love,101,0.4,1
+7250-7647,Why America ‚Äôs 2-party <system/> is on a collision course with our constitutional democracy,banger,10000,0.2,Why America ‚Äôs 2-party <system/> is on a collision course with our constitutional democracy,morons,13010,1,2
+7250-13230,Why America ‚Äôs 2-party <system/> is on a collision course with our constitutional democracy,banger,10000,0.2,Why <America/> ‚Äôs 2-party system is on a collision course with our constitutional democracy,fraternity,1102,0.8,2
+7647-13230,Why America ‚Äôs 2-party <system/> is on a collision course with our constitutional democracy,morons,13010,1,Why <America/> ‚Äôs 2-party system is on a collision course with our constitutional democracy,fraternity,1102,0.8,1
+6151-1114,Why blue states might ditch beloved Obamacare <protections/> ,disasters,11210,1,Why blue <states/> might ditch beloved Obamacare protections,bloods,1000,0.2,1
+6151-6865,Why blue states might ditch beloved Obamacare <protections/> ,disasters,11210,1,Why blue <states/> might ditch beloved Obamacare protections,jeans,10100,0.4,1
+1114-6865,Why blue <states/> might ditch beloved Obamacare protections,bloods,1000,0.2,Why blue <states/> might ditch beloved Obamacare protections,jeans,10100,0.4,2
+15045-14836,Why <Christians/> Must Support Gun Control,robbers,32212,2,Why Christians Must Support <Gun Control/> ,Abortion,0,0,1
+15045-5317,Why <Christians/> Must Support Gun Control,robbers,32212,2,Why <Christians/> Must Support Gun Control,criminals,2101,0.8,1
+14836-5317,Why Christians Must Support <Gun Control/> ,Abortion,0,0,Why <Christians/> Must Support Gun Control,criminals,2101,0.8,2
+2318-14298,Why Congress just killed a rule restricting <coal/> companies from dumping waste in streams,sewer,20110,0.8,Why Congress just killed a rule restricting coal companies from dumping <waste/> in streams,children,3132,1.8,2
+2318-6292,Why Congress just killed a rule restricting <coal/> companies from dumping waste in streams,sewer,20110,0.8,Why Congress just killed a rule restricting coal companies from dumping <waste/> in streams,glitter,23321,2.2,2
+14298-6292,Why Congress just killed a rule restricting coal companies from dumping <waste/> in streams,children,3132,1.8,Why Congress just killed a rule restricting coal companies from dumping <waste/> in streams,glitter,23321,2.2,2
+6802-11959,Why Donald Trump 's NASA Chief Pick Is a Controversial <Choice/> ,idiot,1100,0.4,Why Donald Trump 's NASA Chief <Pick/> Is a Controversial Choice,chef,10200,0.6,2
+6802-847,Why Donald Trump 's NASA Chief Pick Is a Controversial <Choice/> ,idiot,1100,0.4,Why Donald Trump 's NASA Chief <Pick/> Is a Controversial Choice,penguin,10112,1,2
+11959-847,Why Donald Trump 's NASA Chief <Pick/> Is a Controversial Choice,chef,10200,0.6,Why Donald Trump 's NASA Chief <Pick/> Is a Controversial Choice,penguin,10112,1,2
+2394-6508,Why Gorsuch could lead <court/> in wrong direction,ducks,33221,2.2,Why Gorsuch could lead <court/> in wrong direction,parade,13323,2.4,2
+2394-5160,Why Gorsuch could lead <court/> in wrong direction,ducks,33221,2.2,Why Gorsuch could lead <court/> in wrong direction,goats,21030,1.2,1
+6508-5160,Why Gorsuch could lead <court/> in wrong direction,parade,13323,2.4,Why Gorsuch could lead <court/> in wrong direction,goats,21030,1.2,1
+3858-11905,Why Hillary Clinton Lost To <Donald Trump/> ,cheater,1000,0.2,Why Hillary Clinton Lost To <Donald Trump/> ,child,23001,1.2,2
+3858-7649,Why Hillary Clinton Lost To <Donald Trump/> ,cheater,1000,0.2,Why Hillary Clinton Lost To <Donald Trump/> ,basketball,2100,0.6,2
+11905-7649,Why Hillary Clinton Lost To <Donald Trump/> ,child,23001,1.2,Why Hillary Clinton Lost To <Donald Trump/> ,basketball,2100,0.6,1
+5452-5439,Why Hillary Clinton Was ‚Äò Shocked ‚Äô Over Her Campaign <Beauty/> Routine,eating,20301,1.2,Why Hillary Clinton Was ‚Äò Shocked ‚Äô Over Her Campaign Beauty <Routine/> ,cleanser,0,0,1
+5452-4162,Why Hillary Clinton Was ‚Äò Shocked ‚Äô Over Her Campaign <Beauty/> Routine,eating,20301,1.2,Why Hillary Clinton Was ‚Äò Shocked ‚Äô Over Her Campaign Beauty <Routine/> ,pageant,11231,1.6,2
+5439-4162,Why Hillary Clinton Was ‚Äò Shocked ‚Äô Over Her Campaign Beauty <Routine/> ,cleanser,0,0,Why Hillary Clinton Was ‚Äò Shocked ‚Äô Over Her Campaign Beauty <Routine/> ,pageant,11231,1.6,2
+856-2281,Why is Donald Trump so cozy with the Kremlin ? A political scientist and <Russia/> expert breaks down the theories,urology,13101,1.2,Why is Donald Trump so cozy with the <Kremlin/> ? A political scientist and Russia expert breaks down the theories,children,1112,1,1
+856-8040,Why is Donald Trump so cozy with the Kremlin ? A political scientist and <Russia/> expert breaks down the theories,urology,13101,1.2,Why is Donald Trump so cozy with the <Kremlin/> ? A political scientist and Russia expert breaks down the theories,blanket,20303,1.6,2
+2281-8040,Why is Donald Trump so cozy with the <Kremlin/> ? A political scientist and Russia expert breaks down the theories,children,1112,1,Why is Donald Trump so cozy with the <Kremlin/> ? A political scientist and Russia expert breaks down the theories,blanket,20303,1.6,2
+6622-166,Why is Mike Pence romancing the Trump base ? Because he could become <president/> ~ sooner than we think,principal,0,0,Why is Mike Pence romancing the Trump <base/> ? Because he could become president ~ sooner than we think,stone,22001,1,2
+6622-5961,Why is Mike Pence romancing the Trump base ? Because he could become <president/> ~ sooner than we think,principal,0,0,Why is Mike Pence romancing the Trump base ? Because he could become president ~ sooner than we <think/> ,want,20122,1.4,2
+166-5961,Why is Mike Pence romancing the Trump <base/> ? Because he could become president ~ sooner than we think,stone,22001,1,Why is Mike Pence romancing the Trump base ? Because he could become president ~ sooner than we <think/> ,want,20122,1.4,2
+8851-3668,Why it is time for <Sessions/> to go,electricity,12000,0.6,Why it is time for <Sessions/> to go,penguins,11200,0.8,2
+3798-7399,Why Japan Is Begging <Trump/> for Help,dolphins,2121,1.2,Why <Japan/> Is Begging Trump for Help,witch,20012,1,1
+3798-7406,Why Japan Is Begging <Trump/> for Help,dolphins,2121,1.2,Why <Japan/> Is Begging Trump for Help,nobody,12201,1.2,0
+7399-7406,Why <Japan/> Is Begging Trump for Help,witch,20012,1,Why <Japan/> Is Begging Trump for Help,nobody,12201,1.2,2
+2401-10285,Why Obama Just Wrote <Articles/> in 3 Academic Journals,limericks,21000,0.6,Why Obama Just <Wrote/> Articles in 3 Academic Journals,banned,200,0.4,1
+2401-238,Why Obama Just Wrote <Articles/> in 3 Academic Journals,limericks,21000,0.6,Why Obama Just Wrote <Articles/> in 3 Academic Journals,Graffiti,1032,1.2,2
+10285-238,Why Obama Just <Wrote/> Articles in 3 Academic Journals,banned,200,0.4,Why Obama Just Wrote <Articles/> in 3 Academic Journals,Graffiti,1032,1.2,2
+7486-11498,Why Senate Republicans ‚Äô skinny repeal could cause a <death/> spiral,rainbow,200,0.4,Why Senate Republicans ‚Äô skinny repeal could cause a death <spiral/> ,explosion,100,0.2,1
+7486-7216,Why Senate Republicans ‚Äô skinny repeal could cause a <death/> spiral,rainbow,200,0.4,Why Senate Republicans ‚Äô skinny repeal could cause a <death/> spiral,fat,32012,1.6,2
+11498-7216,Why Senate Republicans ‚Äô skinny repeal could cause a death <spiral/> ,explosion,100,0.2,Why Senate Republicans ‚Äô skinny repeal could cause a <death/> spiral,fat,32012,1.6,2
+3007-10528,Why should taxpayers subsidize <Joe Arpaio/> ‚Äôs legal defense ?,supervillain,2010,0.6,Why should <taxpayers/> subsidize Joe Arpaio ‚Äôs legal defense ?,children,10311,1.2,2
+3007-4764,Why should taxpayers subsidize <Joe Arpaio/> ‚Äôs legal defense ?,supervillain,2010,0.6,Why should taxpayers subsidize Joe Arpaio ‚Äôs legal <defense/> ?,education,200,0.4,1
+10528-4764,Why should <taxpayers/> subsidize Joe Arpaio ‚Äôs legal defense ?,children,10311,1.2,Why should taxpayers subsidize Joe Arpaio ‚Äôs legal <defense/> ?,education,200,0.4,1
+9680-11147,Why the United encounter sparked more <outrage/> than this violent police incident,fires,0,0,Why the United encounter sparked more <outrage/> than this violent police incident,marriages,111,0.6,2
+9680-10594,Why the United encounter sparked more <outrage/> than this violent police incident,fires,0,0,Why the United encounter sparked more outrage than this violent <police/> incident,monk,3010,0.8,2
+11147-10594,Why the United encounter sparked more <outrage/> than this violent police incident,marriages,111,0.6,Why the United encounter sparked more outrage than this violent <police/> incident,monk,3010,0.8,2
+12482-1029,Why this political scientist thinks the Democrats have to <fight/> dirty,dance,21121,1.4,Why this political scientist thinks the <Democrats/> have to fight dirty,squirrel,12221,1.6,2
+12482-14729,Why this political scientist thinks the Democrats have to <fight/> dirty,dance,21121,1.4,Why this political scientist thinks the Democrats have to <fight/> dirty,eat,11103,1.2,1
+1029-14729,Why this political scientist thinks the <Democrats/> have to fight dirty,squirrel,12221,1.6,Why this political scientist thinks the Democrats have to <fight/> dirty,eat,11103,1.2,1
+8906-11331,Why Trump cutting food stamps could starve <America/> ‚Äôs economy,lion,11000,0.4,Why Trump cutting food <stamps/> could starve America ‚Äôs economy,sources,221,1,2
+8906-1052,Why Trump cutting food stamps could starve <America/> ‚Äôs economy,lion,11000,0.4,Why Trump cutting food stamps could starve America ‚Äôs <economy/> ,people,10110,0.6,2
+11331-1052,Why Trump cutting food <stamps/> could starve America ‚Äôs economy,sources,221,1,Why Trump cutting food stamps could starve America ‚Äôs <economy/> ,people,10110,0.6,1
+2529-6800,Why Trump would really ~ really rather not <fire/> Scott Pruitt,kiss,2132,1.6,Why Trump would really ~ really rather not <fire/> Scott Pruitt,milk,3101,1,1
+2529-6335,Why Trump would really ~ really rather not <fire/> Scott Pruitt,kiss,2132,1.6,Why Trump would really ~ really rather not <fire/> Scott Pruitt,hug,31130,1.6,0
+6800-6335,Why Trump would really ~ really rather not <fire/> Scott Pruitt,milk,3101,1,Why Trump would really ~ really rather not <fire/> Scott Pruitt,hug,31130,1.6,2
+9022-13540,Why Trump ‚Äôs Mississippi <Civil Rights/> Museum visit is so controversial,wax,11101,0.8,Why <Trump/> ‚Äôs Mississippi Civil Rights Museum visit is so controversial,puppy,0,0,1
+9022-4127,Why Trump ‚Äôs Mississippi <Civil Rights/> Museum visit is so controversial,wax,11101,0.8,Why <Trump/> ‚Äôs Mississippi Civil Rights Museum visit is so controversial,ghost,1,0.2,1
+13540-4127,Why <Trump/> ‚Äôs Mississippi Civil Rights Museum visit is so controversial,puppy,0,0,Why <Trump/> ‚Äôs Mississippi Civil Rights Museum visit is so controversial,ghost,1,0.2,2
+8770-11823,Why used sanitary pads are being collected in <India/> ,church,211,0.8,Why used sanitary pads are being collected in <India/> ,reactor,10010,0.4,1
+8770-2709,Why used sanitary pads are being collected in <India/> ,church,211,0.8,Why used sanitary pads are being collected in <India/> ,restaurant,11010,0.6,1
+11823-2709,Why used sanitary pads are being collected in <India/> ,reactor,10010,0.4,Why used sanitary pads are being collected in <India/> ,restaurant,11010,0.6,2
+9439-5538,Widespread <killings/> of candidates cast shadow over Mexican elections,immigrating,2000,0.4,Widespread <killings/> of candidates cast shadow over Mexican elections,laughter,1022,1,2
+9439-13934,Widespread <killings/> of candidates cast shadow over Mexican elections,immigrating,2000,0.4,Widespread killings of <candidates/> cast shadow over Mexican elections,animals,0,0,1
+5538-13934,Widespread <killings/> of candidates cast shadow over Mexican elections,laughter,1022,1,Widespread killings of <candidates/> cast shadow over Mexican elections,animals,0,0,1
+7588-7299,WikiLeaks ' Assange a <winner/> in Ecuador presidential runoff,janitor,10102,0.8,WikiLeaks ' Assange a winner in Ecuador presidential <runoff/> ,lottery,21000,0.6,1
+13636-4095,Wikileaks ' Sceptical ' Macron <Leaks/> Fake ~ As Russia Falls Under Spotlight,surrender,110,0.4,Wikileaks ' Sceptical ' Macron Leaks Fake ~ As Russia <Falls/> Under Spotlight,Dances,11220,1.2,2
+13636-6248,Wikileaks ' Sceptical ' Macron <Leaks/> Fake ~ As Russia Falls Under Spotlight,surrender,110,0.4,Wikileaks ' Sceptical ' Macron <Leaks/> Fake ~ As Russia Falls Under Spotlight,Teeth,13021,1.4,2
+4095-6248,Wikileaks ' Sceptical ' Macron Leaks Fake ~ As Russia <Falls/> Under Spotlight,Dances,11220,1.2,Wikileaks ' Sceptical ' Macron <Leaks/> Fake ~ As Russia Falls Under Spotlight,Teeth,13021,1.4,2
+12590-2519,WikiLeaks <founder/> Assange loses bid to get U.K. arrest warrant dropped,geek,10000,0.2,WikiLeaks <founder/> Assange loses bid to get U.K. arrest warrant dropped,humanitarian,1000,0.2,0
+12590-1397,WikiLeaks <founder/> Assange loses bid to get U.K. arrest warrant dropped,geek,10000,0.2,WikiLeaks founder Assange loses <bid/> to get U.K. arrest warrant dropped,duel,100,0.2,0
+2519-1397,WikiLeaks <founder/> Assange loses bid to get U.K. arrest warrant dropped,humanitarian,1000,0.2,WikiLeaks founder Assange loses <bid/> to get U.K. arrest warrant dropped,duel,100,0.2,0
+7161-10991,WikiLeaks Releases Trove of Alleged C.I.A. Hacking <Documents/> - New York Times,coughs,310,0.8,WikiLeaks Releases Trove of Alleged C.I.A. Hacking <Documents/> - New York Times,kittens,20000,0.4,1
+7161-2871,WikiLeaks Releases Trove of Alleged C.I.A. Hacking <Documents/> - New York Times,coughs,310,0.8,WikiLeaks <Releases/> Trove of Alleged C.I.A. Hacking Documents - New York Times,Fabricates,32,1,2
+10991-2871,WikiLeaks Releases Trove of Alleged C.I.A. Hacking <Documents/> - New York Times,kittens,20000,0.4,WikiLeaks <Releases/> Trove of Alleged C.I.A. Hacking Documents - New York Times,Fabricates,32,1,2
+6278-3078,Wilbur Ross surprised there were no <protests/> in Saudi Arabia,mummies,23021,1.6,Wilbur Ross surprised there were no <protests/> in Saudi Arabia,people,10022,1,1
+6278-11719,Wilbur Ross surprised there were no <protests/> in Saudi Arabia,mummies,23021,1.6,Wilbur Ross surprised there were no <protests/> in Saudi Arabia,camels,11002,0.8,1
+3078-11719,Wilbur Ross surprised there were no <protests/> in Saudi Arabia,people,10022,1,Wilbur Ross surprised there were no <protests/> in Saudi Arabia,camels,11002,0.8,1
+4946-1111,Will <Democrats/> Who Backed Trump in 2016 Back The GOP In 2018 ?,children,20110,0.8,Will <Democrats/> Who Backed Trump in 2016 Back The GOP In 2018 ?,toddlers,2011,0.8,0
+4946-6456,Will <Democrats/> Who Backed Trump in 2016 Back The GOP In 2018 ?,children,20110,0.8,Will <Democrats/> Who Backed Trump in 2016 Back The GOP In 2018 ?,roosters,300,0.6,1
+1111-6456,Will <Democrats/> Who Backed Trump in 2016 Back The GOP In 2018 ?,toddlers,2011,0.8,Will <Democrats/> Who Backed Trump in 2016 Back The GOP In 2018 ?,roosters,300,0.6,1
+11509-14006,Will someone save Trump from this disastrous <decision/> ?,haircut,23211,1.8,Will someone save Trump from this disastrous <decision/> ?,wardrobe,1321,1.4,1
+11509-10740,Will someone save Trump from this disastrous <decision/> ?,haircut,23211,1.8,Will someone save Trump from this disastrous <decision/> ?,presidency,13230,1.8,0
+14006-10740,Will someone save Trump from this disastrous <decision/> ?,wardrobe,1321,1.4,Will someone save Trump from this disastrous <decision/> ?,presidency,13230,1.8,2
+13156-10101,Will Sweden Become the First <Country/> to Go Cash-Free ?,bum,20,0.4,Will Sweden <Become/> the First Country to Go Cash-Free ?,reward,0,0,1
+13156-2844,Will Sweden Become the First <Country/> to Go Cash-Free ?,bum,20,0.4,Will Sweden Become the First <Country/> to Go Cash-Free ?,wrestler,1,0.2,1
+10101-2844,Will Sweden <Become/> the First Country to Go Cash-Free ?,reward,0,0,Will Sweden Become the First <Country/> to Go Cash-Free ?,wrestler,1,0.2,2
+2554-6930,Will Trump 's possible testimony end the Mueller probe ‚Äî or is it just <starting/> ?,confusing,2112,1.2,Will Trump 's possible <testimony/> end the Mueller probe ‚Äî or is it just starting ?,tantrum,321223101,1.5,2
+1930-971,Will Trump Be Impeached Based on Michael Flynn ‚Äôs <Russia/> Revelations ?,peach,13112,1.6,Will Trump Be Impeached Based on Michael Flynn ‚Äôs Russia <Revelations/> ?,dressings,31113,1.8,2
+1930-8692,Will Trump Be Impeached Based on Michael Flynn ‚Äôs <Russia/> Revelations ?,peach,13112,1.6,Will Trump Be Impeached Based on Michael Flynn ‚Äôs <Russia/> Revelations ?,divine,1111,0.8,1
+971-8692,Will Trump Be Impeached Based on Michael Flynn ‚Äôs Russia <Revelations/> ?,dressings,31113,1.8,Will Trump Be Impeached Based on Michael Flynn ‚Äôs <Russia/> Revelations ?,divine,1111,0.8,1
+3323-3465,Will Trump Order Seth Rich Murder Investigation ? Former <Aides/> Say Democrats Killed Staffer to Protect Hillary Clinton,newscasters,3000,0.6,Will Trump Order Seth Rich Murder Investigation ? Former Aides Say Democrats Killed Staffer to Protect <Hillary Clinton/> ,him,1000,0.2,1
+10013-589,Wisconsin Ironworker Challenges Paul Ryan For <House/> Seat,toilet,32231,2.2,Wisconsin Ironworker Challenges Paul Ryan For House <Seat/> ,cat,32220,1.8,1
+10013-1900,Wisconsin Ironworker Challenges Paul Ryan For <House/> Seat,toilet,32231,2.2,Wisconsin Ironworker Challenges Paul Ryan For <House/> Seat,Bicycle,33113,2.2,0
+589-1900,Wisconsin Ironworker Challenges Paul Ryan For House <Seat/> ,cat,32220,1.8,Wisconsin Ironworker Challenges Paul Ryan For <House/> Seat,Bicycle,33113,2.2,2
+8125-5403,With ' Pussyhats ~ ' Liberals Get Their Own Version Of The Red Trucker <Hat/> ,eyesore,11211,1.2,With ' Pussyhats ~ ' <Liberals/> Get Their Own Version Of The Red Trucker Hat,Kittens,1320,1.2,0
+8125-7380,With ' Pussyhats ~ ' Liberals Get Their Own Version Of The Red Trucker <Hat/> ,eyesore,11211,1.2,With ' Pussyhats ~ ' <Liberals/> Get Their Own Version Of The Red Trucker Hat,Rednecks,10001,0.4,1
+5403-7380,With ' Pussyhats ~ ' <Liberals/> Get Their Own Version Of The Red Trucker Hat,Kittens,1320,1.2,With ' Pussyhats ~ ' <Liberals/> Get Their Own Version Of The Red Trucker Hat,Rednecks,10001,0.4,1
+5546-2292,With 60 Killed In Gaza ~ U.N. Rights Commissioner <Criticizes/> Israel,Applauds,20,0.4,With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes <Israel/> ,Pasta,2100,0.6,2
+5546-10105,With 60 Killed In Gaza ~ U.N. Rights Commissioner <Criticizes/> Israel,Applauds,20,0.4,With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes <Israel/> ,cupcakes,21210,1.2,2
+2292-10105,With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes <Israel/> ,Pasta,2100,0.6,With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes <Israel/> ,cupcakes,21210,1.2,2
+8245-7610,With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His <Values/> ,Penises,2031,1.2,With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His <Values/> ,Chest,1010,0.4,1
+8245-13796,With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His <Values/> ,Penises,2031,1.2,With His Choice Of Inauguration <Prayer/> Leaders ~ Trump Shows His Values,Satanist,10021,0.8,1
+7610-13796,With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His <Values/> ,Chest,1010,0.4,With His Choice Of Inauguration <Prayer/> Leaders ~ Trump Shows His Values,Satanist,10021,0.8,2
+6392-6356,With Mugabe in custody ~ Zimbabwe 's military denies <coup/> ,ignorance,2,0.4,With Mugabe in custody ~ Zimbabwe 's military denies <coup/> ,breakdancing,2103,1.2,2
+6392-3552,With Mugabe in custody ~ Zimbabwe 's military denies <coup/> ,ignorance,2,0.4,With Mugabe in <custody/> ~ Zimbabwe 's military denies coup,pajamas,1010,0.4,0
+6356-3552,With Mugabe in custody ~ Zimbabwe 's military denies <coup/> ,breakdancing,2103,1.2,With Mugabe in <custody/> ~ Zimbabwe 's military denies coup,pajamas,1010,0.4,1
+8575-869, <Woman/> confronts Sean Spicer : ' How does it feel to work for a fascist ? ',totalitarian,1112,1,Woman confronts Sean Spicer : ' How does it feel to <work/> for a fascist ? ',tango,2131,1.4,2
+8575-455, <Woman/> confronts Sean Spicer : ' How does it feel to work for a fascist ? ',totalitarian,1112,1,Woman confronts Sean Spicer : ' How does it feel to <work/> for a fascist ? ',dance,322,1.4,2
+869-455,Woman confronts Sean Spicer : ' How does it feel to <work/> for a fascist ? ',tango,2131,1.4,Woman confronts Sean Spicer : ' How does it feel to <work/> for a fascist ? ',dance,322,1.4,0
+5562-14981,Woman in Northern Ireland critically injured by a drill in possible ' homophobic <attack/> ',mystery,10,0.2,Woman in Northern Ireland critically injured by a <drill/> in possible ' homophobic attack ',sponge,1112,1,2
+5562-14825,Woman in Northern Ireland critically injured by a drill in possible ' homophobic <attack/> ',mystery,10,0.2, <Woman/> in Northern Ireland critically injured by a drill in possible ' homophobic attack ',Infant,0,0,1
+14981-14825,Woman in Northern Ireland critically injured by a <drill/> in possible ' homophobic attack ',sponge,1112,1, <Woman/> in Northern Ireland critically injured by a drill in possible ' homophobic attack ',Infant,0,0,1
+1553-8859,Woman in Russian spy <mystery/> is Sergei Skripal 's daughter | World news,movie,10,0.2,Woman in Russian spy <mystery/> is Sergei Skripal 's daughter | World news,suit,110,0.4,2
+1553-4439,Woman in Russian spy <mystery/> is Sergei Skripal 's daughter | World news,movie,10,0.2,Woman in Russian spy <mystery/> is Sergei Skripal 's daughter | World news,novel,2,0.4,2
+8859-4439,Woman in Russian spy <mystery/> is Sergei Skripal 's daughter | World news,suit,110,0.4,Woman in Russian spy <mystery/> is Sergei Skripal 's daughter | World news,novel,2,0.4,0
+3942-4119, <Woman/> says George H. W. Bush groped her when she was 16,banana,20030,1, <Woman/> says George H. W. Bush groped her when she was 16,Hyena,30101,1,0
+3942-9253, <Woman/> says George H. W. Bush groped her when she was 16,banana,20030,1,Woman says George H. W. Bush <groped/> her when she was 16,married,11100,0.6,1
+4119-9253, <Woman/> says George H. W. Bush groped her when she was 16,Hyena,30101,1,Woman says George H. W. Bush <groped/> her when she was 16,married,11100,0.6,1
+7047-13024,Woman swept up in massive <cocaine/> bust in L.A. now faces deportation ~ spurring protests and anger,koala,12111,1.2,Woman swept up in massive cocaine bust in L.A. now faces <deportation/> ~ spurring protests and anger,promotion,30203,1.6,2
+7047-8824,Woman swept up in massive <cocaine/> bust in L.A. now faces deportation ~ spurring protests and anger,koala,12111,1.2,Woman swept up in massive cocaine <bust/> in L.A. now faces deportation ~ spurring protests and anger,pile,11213,1.6,2
+13024-8824,Woman swept up in massive cocaine bust in L.A. now faces <deportation/> ~ spurring protests and anger,promotion,30203,1.6,Woman swept up in massive cocaine <bust/> in L.A. now faces deportation ~ spurring protests and anger,pile,11213,1.6,0
+8118-1856,Woman thrown out of West Virginia town hall <meeting/> for listing politician 's oil and gas donors,bar,1003,0.8, <Woman/> thrown out of West Virginia town hall meeting for listing politician 's oil and gas donors,Horse,30102,1.2,2
+8118-2969,Woman thrown out of West Virginia town hall <meeting/> for listing politician 's oil and gas donors,bar,1003,0.8,Woman thrown out of West Virginia town hall meeting for listing politician 's oil and gas <donors/> ,passers,0,0,1
+1856-2969, <Woman/> thrown out of West Virginia town hall meeting for listing politician 's oil and gas donors,Horse,30102,1.2,Woman thrown out of West Virginia town hall meeting for listing politician 's oil and gas <donors/> ,passers,0,0,1
+7887-2629,Woman wan troway poo-poo ~ come trap for <window/> ,door,0,0,Woman wan troway poo-poo ~ come trap for <window/> ,toilets,100,0.2,2
+7887-6734,Woman wan troway poo-poo ~ come trap for <window/> ,door,0,0,Woman wan troway poo-poo ~ come trap for <window/> ,snail,1000,0.2,2
+2629-6734,Woman wan troway poo-poo ~ come trap for <window/> ,toilets,100,0.2,Woman wan troway poo-poo ~ come trap for <window/> ,snail,1000,0.2,0
+7253-10578,Woman who injected husband with lethal dose of heroin may have killed 9 others ~ served lover 's <remains/> at BBQ,toes,2010,0.6,Woman who injected husband with lethal dose of <heroin/> may have killed 9 others ~ served lover 's remains at BBQ,cooties,2123,1.6,2
+7253-10896,Woman who injected husband with lethal dose of heroin may have killed 9 others ~ served lover 's <remains/> at BBQ,toes,2010,0.6,Woman who injected husband with lethal dose of <heroin/> may have killed 9 others ~ served lover 's remains at BBQ,marinade,30012,1.2,2
+10578-10896,Woman who injected husband with lethal dose of <heroin/> may have killed 9 others ~ served lover 's remains at BBQ,cooties,2123,1.6,Woman who injected husband with lethal dose of <heroin/> may have killed 9 others ~ served lover 's remains at BBQ,marinade,30012,1.2,1
+4211-14060,Women 's Heavy Disapproval Of <Trump/> May Not Cut So Deep Against GOP In 2018 Midterms,shampoo,10030,0.8,Women 's Heavy <Disapproval/> Of Trump May Not Cut So Deep Against GOP In 2018 Midterms,dessert,1,0.2,1
+4211-2421,Women 's Heavy Disapproval Of <Trump/> May Not Cut So Deep Against GOP In 2018 Midterms,shampoo,10030,0.8,Women 's Heavy Disapproval Of <Trump/> May Not Cut So Deep Against GOP In 2018 Midterms,baseball,1000,0.2,1
+14060-2421,Women 's Heavy <Disapproval/> Of Trump May Not Cut So Deep Against GOP In 2018 Midterms,dessert,1,0.2,Women 's Heavy Disapproval Of <Trump/> May Not Cut So Deep Against GOP In 2018 Midterms,baseball,1000,0.2,0
+5483-4702,Women-only <luxury/> retreat opening in Finland,desert,100,0.2,Women-only luxury retreat opening in <Finland/> ,space,11112,1.2,2
+5483-11354,Women-only <luxury/> retreat opening in Finland,desert,100,0.2,Women-only luxury retreat opening in <Finland/> ,landfill,33002,1.6,2
+4702-11354,Women-only luxury retreat opening in <Finland/> ,space,11112,1.2,Women-only luxury retreat opening in <Finland/> ,landfill,33002,1.6,2
+3857-3240,Women senators say #MeToo ~ reveal <stories/> of sexual harassment,Benefits,22120,1.4,Women senators say #MeToo ~ reveal stories of sexual <harassment/> ,dreams,3221,1.6,2
+3857-8154,Women senators say #MeToo ~ reveal <stories/> of sexual harassment,Benefits,22120,1.4,Women senators say #MeToo ~ reveal stories of sexual <harassment/> ,chocolate,30020,1,1
+3240-8154,Women senators say #MeToo ~ reveal stories of sexual <harassment/> ,dreams,3221,1.6,Women senators say #MeToo ~ reveal stories of sexual <harassment/> ,chocolate,30020,1,1
+12922-179,Word To The <President/> : ' Professionalism ',editor,0,0,Word To The President : ' <Professionalism/> ',Bird,3131,1.6,2
+12922-8798,Word To The <President/> : ' Professionalism ',editor,0,0,Word To The <President/> : ' Professionalism ',moon,11000,0.4,2
+179-8798,Word To The President : ' <Professionalism/> ',Bird,3131,1.6,Word To The <President/> : ' Professionalism ',moon,11000,0.4,1
+10810-6266,Workers at Chinese Factory for Ivanka Trump ‚Äôs <Clothing/> Paid $ 62 a Week : Report,nose,11310,1.2,Workers at Chinese Factory for Ivanka Trump ‚Äôs Clothing Paid $ 62 a <Week/> : Report,microsecond,20001,0.6,1
+10810-9593,Workers at Chinese Factory for Ivanka Trump ‚Äôs <Clothing/> Paid $ 62 a Week : Report,nose,11310,1.2, <Workers/> at Chinese Factory for Ivanka Trump ‚Äôs Clothing Paid $ 62 a Week : Report,Penguins,2111,1,1
+6266-9593,Workers at Chinese Factory for Ivanka Trump ‚Äôs Clothing Paid $ 62 a <Week/> : Report,microsecond,20001,0.6, <Workers/> at Chinese Factory for Ivanka Trump ‚Äôs Clothing Paid $ 62 a Week : Report,Penguins,2111,1,2
+1516-7360,World 's largest collection of <ocean/> garbage is now twice the size of Texas,political,30032,1.6,World 's largest collection of <ocean/> garbage is now twice the size of Texas,presidential,32002,1.4,1
+1516-6194,World 's largest collection of <ocean/> garbage is now twice the size of Texas,political,30032,1.6,World 's largest collection of ocean <garbage/> is now twice the size of Texas,shells,10030,0.8,1
+7360-6194,World 's largest collection of <ocean/> garbage is now twice the size of Texas,presidential,32002,1.4,World 's largest collection of ocean <garbage/> is now twice the size of Texas,shells,10030,0.8,1
+13508-3029,World 's largest general <science/> organisation slams Trump 's lack of ' scientific thinking ',store,10,0.2,World 's largest general <science/> organisation slams Trump 's lack of ' scientific thinking ',superstitions,12,0.6,2
+13508-2261,World 's largest general <science/> organisation slams Trump 's lack of ' scientific thinking ',store,10,0.2,World 's largest general <science/> organisation slams Trump 's lack of ' scientific thinking ',religious,10112,1,2
+3029-2261,World 's largest general <science/> organisation slams Trump 's lack of ' scientific thinking ',superstitions,12,0.6,World 's largest general <science/> organisation slams Trump 's lack of ' scientific thinking ',religious,10112,1,2
+13684-14059,WORLD NEWS N.Korea fires Scud-class ballistic <missile/> ~ Japan protests ~ Trump briefed,celery,20101,0.8,WORLD NEWS N.Korea fires Scud-class ballistic <missile/> ~ Japan protests ~ Trump briefed,pancake,1111,0.8,0
+13684-5666,WORLD NEWS N.Korea fires Scud-class ballistic <missile/> ~ Japan protests ~ Trump briefed,celery,20101,0.8,WORLD NEWS N.Korea fires Scud-class ballistic <missile/> ~ Japan protests ~ Trump briefed,tantrum,3212,1.6,2
+14059-5666,WORLD NEWS N.Korea fires Scud-class ballistic <missile/> ~ Japan protests ~ Trump briefed,pancake,1111,0.8,WORLD NEWS N.Korea fires Scud-class ballistic <missile/> ~ Japan protests ~ Trump briefed,tantrum,3212,1.6,2
+12616-8607, <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump,sleepover,10102,0.8, <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump,hopscotch,10001,0.4,1
+12616-10749, <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump,sleepover,10102,0.8,World War 3 Wo n't Be Between a Nuclear North Korea and <Trump/> ,paintbrush,10,0.2,1
+8607-10749, <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump,hopscotch,10001,0.4,World War 3 Wo n't Be Between a Nuclear North Korea and <Trump/> ,paintbrush,10,0.2,1
+12695-12141,Wrenched From Scandal to Success ~ Trump Looks Ahead ~ and Over His <Shoulder/> ,bifocals,1020,0.6,Wrenched From Scandal to Success ~ Trump <Looks/> Ahead ~ and Over His Shoulder,trips,101,0.4,1
+7186-5970,x Wrestling ‚Äôs new villain calls himself ‚Äò Progressive Liberal . ‚Äô Hillary ‚Äôs on his <shirt/> .,nightgown,213,1.2,x Wrestling ‚Äôs new villain calls himself ‚Äò Progressive Liberal . ‚Äô <Hillary/> ‚Äôs on his shirt .,vomit,20,0.4,1
+7186-6982,x Wrestling ‚Äôs new villain calls himself ‚Äò Progressive Liberal . ‚Äô Hillary ‚Äôs on his <shirt/> .,nightgown,213,1.2,x Wrestling ‚Äôs new villain calls himself ‚Äò Progressive Liberal . ‚Äô Hillary ‚Äôs on his <shirt/> .,mind,3,0.6,1
+5970-6982,x Wrestling ‚Äôs new villain calls himself ‚Äò Progressive Liberal . ‚Äô <Hillary/> ‚Äôs on his shirt .,vomit,20,0.4,x Wrestling ‚Äôs new villain calls himself ‚Äò Progressive Liberal . ‚Äô Hillary ‚Äôs on his <shirt/> .,mind,3,0.6,2
+5138-8637,Yates ~ Clapper To Testify In Open House Hearing On Russian <Election/> Meddling,shorts,1002,0.6,Yates ~ Clapper To Testify In Open House Hearing On Russian <Election/> Meddling,Recipe,21,0.6,0
+5138-9736,Yates ~ Clapper To Testify In Open House Hearing On Russian <Election/> Meddling,shorts,1002,0.6,Yates ~ Clapper To Testify In Open <House/> Hearing On Russian Election Meddling,treehouse,31212,1.8,2
+8637-9736,Yates ~ Clapper To Testify In Open House Hearing On Russian <Election/> Meddling,Recipe,21,0.6,Yates ~ Clapper To Testify In Open <House/> Hearing On Russian Election Meddling,treehouse,31212,1.8,2
+2010-6503,Yemen <cholera/> cases reach one million - ICRC,hiccup,13111,1.4,Yemen <cholera/> cases reach one million - ICRC,alcoholic,2030,1,1
+2010-9,Yemen <cholera/> cases reach one million - ICRC,hiccup,13111,1.4,Yemen <cholera/> cases reach one million - ICRC,heartburn,1011,0.6,1
+6503-9,Yemen <cholera/> cases reach one million - ICRC,alcoholic,2030,1,Yemen <cholera/> cases reach one million - ICRC,heartburn,1011,0.6,1
+7294-14050,Yes ~ <Trump/> offends ~ but what did we expect ?,criminal,1000,0.2,Yes ~ <Trump/> offends ~ but what did we expect ?,gas,30223,2,2
+7294-14288,Yes ~ <Trump/> offends ~ but what did we expect ?,criminal,1000,0.2,Yes ~ <Trump/> offends ~ but what did we expect ?,odor,2111,1,2
+14050-14288,Yes ~ <Trump/> offends ~ but what did we expect ?,gas,30223,2,Yes ~ <Trump/> offends ~ but what did we expect ?,odor,2111,1,1
+12387-12506,Yet again ~ Trump 's defensiveness makes his handling of a gold-star family 's <grief/> worse,mail,1101,0.6,Yet again ~ <Trump/> 's defensiveness makes his handling of a gold-star family 's grief worse,Alabama,0,0,1
+12387-8187,Yet again ~ Trump 's defensiveness makes his handling of a gold-star family 's <grief/> worse,mail,1101,0.6,Yet again ~ Trump 's <defensiveness/> makes his handling of a gold-star family 's grief worse,Hair,12231,1.8,2
+12506-8187,Yet again ~ <Trump/> 's defensiveness makes his handling of a gold-star family 's grief worse,Alabama,0,0,Yet again ~ Trump 's <defensiveness/> makes his handling of a gold-star family 's grief worse,Hair,12231,1.8,2
+4911-7083,Yet another <mystery/> motive,automotive,13000,0.8,Yet another <mystery/> motive,unmotivated,0,0,1
+4911-11709,Yet another <mystery/> motive,automotive,13000,0.8,Yet another <mystery/> motive,insignificant,21000,0.6,1
+7083-11709,Yet another <mystery/> motive,unmotivated,0,0,Yet another <mystery/> motive,insignificant,21000,0.6,2
+1430-2652,Yet another reason Donald Trump is bad <news/> : He ‚Äôs utterly lacking in ‚Äú integrative complexity ‚Äù ‚Äî and that ‚Äôs dangerous,people,21,0.6,Yet another reason <Donald Trump/> is bad news : He ‚Äôs utterly lacking in ‚Äú integrative complexity ‚Äù ‚Äî and that ‚Äôs dangerous,gorilla,10,0.2,1
+1430-11673,Yet another reason Donald Trump is bad <news/> : He ‚Äôs utterly lacking in ‚Äú integrative complexity ‚Äù ‚Äî and that ‚Äôs dangerous,people,21,0.6,Yet another reason Donald Trump is bad <news/> : He ‚Äôs utterly lacking in ‚Äú integrative complexity ‚Äù ‚Äî and that ‚Äôs dangerous,blood,20,0.4,1
+2652-11673,Yet another reason <Donald Trump/> is bad news : He ‚Äôs utterly lacking in ‚Äú integrative complexity ‚Äù ‚Äî and that ‚Äôs dangerous,gorilla,10,0.2,Yet another reason Donald Trump is bad <news/> : He ‚Äôs utterly lacking in ‚Äú integrative complexity ‚Äù ‚Äî and that ‚Äôs dangerous,blood,20,0.4,2
+6152-13258,You Can Be Fined For Wearing A Political T-Shirt To The <Polls/> . SCOTUS Could Change That .,Shower,23002,1.4,You Can Be Fined For <Wearing/> A Political T-Shirt To The Polls . SCOTUS Could Change That .,dating,10012,0.8,1
+6152-15039,You Can Be Fined For Wearing A Political T-Shirt To The <Polls/> . SCOTUS Could Change That .,Shower,23002,1.4,You Can Be Fined For Wearing A Political T-Shirt To The <Polls/> . SCOTUS Could Change That .,mall,20000,0.4,1
+13258-15039,You Can Be Fined For <Wearing/> A Political T-Shirt To The Polls . SCOTUS Could Change That .,dating,10012,0.8,You Can Be Fined For Wearing A Political T-Shirt To The <Polls/> . SCOTUS Could Change That .,mall,20000,0.4,1
+4326-9517,Youngest Texas <shooting/> victim just 18 months old : What we know now,diaper,10301,1,Youngest Texas <shooting/> victim just 18 months old : What we know now,licking,1212,1.2,2
+4326-8384,Youngest Texas <shooting/> victim just 18 months old : What we know now,diaper,10301,1,Youngest Texas <shooting/> victim just 18 months old : What we know now,democracy,102,0.6,1
+9517-8384,Youngest Texas <shooting/> victim just 18 months old : What we know now,licking,1212,1.2,Youngest Texas <shooting/> victim just 18 months old : What we know now,democracy,102,0.6,1
+14582-6948,Young people are <leaving/> the Republican Party in droves ~ new study finds,harassing,202,0.8,Young people are leaving the <Republican/> Party in droves ~ new study finds,trance,10011,0.6,1
+14582-4816,Young people are <leaving/> the Republican Party in droves ~ new study finds,harassing,202,0.8,Young people are leaving the <Republican/> Party in droves ~ new study finds,dinner,21012,1.2,2
+6948-4816,Young people are leaving the <Republican/> Party in droves ~ new study finds,trance,10011,0.6,Young people are leaving the <Republican/> Party in droves ~ new study finds,dinner,21012,1.2,2
+4461-5744,Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child <refugees/> - Politics live,prodigies,0,0,Yvette Cooper asks urgent Commons question on <ending/> of Dubs scheme for child refugees - Politics live,reset,0,0,0
+4461-1860,Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child <refugees/> - Politics live,prodigies,0,0,Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child <refugees/> - Politics live,actors,2201,1,2
+5744-1860,Yvette Cooper asks urgent Commons question on <ending/> of Dubs scheme for child refugees - Politics live,reset,0,0,Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child <refugees/> - Politics live,actors,2201,1,2
+2934-13974,Zambian opposition leader Hichilema <charged/> with treason,elated,220,0.8,Zambian opposition leader Hichilema <charged/> with treason,Tasked,110,0.4,1
+2934-5336,Zambian opposition leader Hichilema <charged/> with treason,elated,220,0.8,Zambian opposition leader Hichilema charged with <treason/> ,ions,30200,1,2
+13974-5336,Zambian opposition leader Hichilema <charged/> with treason,Tasked,110,0.4,Zambian opposition leader Hichilema charged with <treason/> ,ions,30200,1,2
+3593-9666,Zimbabwe crowns first ' Miss Albino ' in bid to tackle <stigma/> ,football,20322,1.8,Zimbabwe crowns first ' Miss Albino ' in bid to tackle <stigma/> ,sunscreen,22321,2,2
+3593-721,Zimbabwe crowns first ' Miss Albino ' in bid to tackle <stigma/> ,football,20322,1.8,Zimbabwe crowns first ' Miss Albino ' in bid to tackle <stigma/> ,quarterback,23010,1.2,1
+9666-721,Zimbabwe crowns first ' Miss Albino ' in bid to tackle <stigma/> ,sunscreen,22321,2,Zimbabwe crowns first ' Miss Albino ' in bid to tackle <stigma/> ,quarterback,23010,1.2,1
+15041-12315,Zinke ‚Äôs travels : Ski resort and Alaskan <steakhouse/> ,mud,20000,0.4,Zinke ‚Äôs travels : Ski resort and Alaskan <steakhouse/> ,outhouse,21100,0.8,2
+15041-8667,Zinke ‚Äôs travels : Ski resort and Alaskan <steakhouse/> ,mud,20000,0.4,Zinke ‚Äôs travels : Ski resort and Alaskan <steakhouse/> ,brothel,10210,0.8,2
+12315-8667,Zinke ‚Äôs travels : Ski resort and Alaskan <steakhouse/> ,outhouse,21100,0.8,Zinke ‚Äôs travels : Ski resort and Alaskan <steakhouse/> ,brothel,10210,0.8,0
+6889-6833,| Trump claims Obama ' colluded ' on Russia ~ without citing <evidence/> ,coherency,1,0.2,| Trump claims Obama ' colluded ' on <Russia/> ~ without citing evidence,Watergate,2002,0.8,2
+6889-12158,| Trump claims Obama ' colluded ' on Russia ~ without citing <evidence/> ,coherency,1,0.2,| Trump claims Obama ' colluded ' on <Russia/> ~ without citing evidence,hotdogs,20110,0.8,2
+6833-12158,| Trump claims Obama ' colluded ' on <Russia/> ~ without citing evidence,Watergate,2002,0.8,| Trump claims Obama ' colluded ' on <Russia/> ~ without citing evidence,hotdogs,20110,0.8,0
+7844-5420,‚Äò Culture of Silence ‚Äô Abetted <Abuse/> of at Least 547 German Choir Boys ~ Inquiry Finds,Muting,200,0.4,‚Äò Culture of Silence ‚Äô Abetted Abuse of at Least 547 German Choir <Boys/> ~ Inquiry Finds,Robes,11001,0.6,2
+7844-7275,‚Äò Culture of Silence ‚Äô Abetted <Abuse/> of at Least 547 German Choir Boys ~ Inquiry Finds,Muting,200,0.4,‚Äò Culture of Silence ‚Äô Abetted Abuse of at Least 547 German Choir <Boys/> ~ Inquiry Finds,Songs,2111,1,2
+5420-7275,‚Äò Culture of Silence ‚Äô Abetted Abuse of at Least 547 German Choir <Boys/> ~ Inquiry Finds,Robes,11001,0.6,‚Äò Culture of Silence ‚Äô Abetted Abuse of at Least 547 German Choir <Boys/> ~ Inquiry Finds,Songs,2111,1,2
+9714-784,‚Äò <Fox/> &amp; Friends ‚Äô scolds CEOs who pulled out of Trump council,mice,1,0.2,‚Äò Fox &amp; Friends ‚Äô scolds CEOs who pulled out of Trump <council/> ,vagina,20300,1,2
+7705-3213,‚Äò Hello ~ Bob ‚Äô : <President Trump/> called my cellphone to say that the health-care bill was dead,mime,12100,0.8,‚Äò Hello ~ Bob ‚Äô : President Trump <called/> my cellphone to say that the health-care bill was dead,tweeted,10,0.2,1
+7705-4380,‚Äò Hello ~ Bob ‚Äô : <President Trump/> called my cellphone to say that the health-care bill was dead,mime,12100,0.8,‚Äò Hello ~ Bob ‚Äô : President Trump <called/> my cellphone to say that the health-care bill was dead,stole,21203,1.6,2
+3213-4380,‚Äò Hello ~ Bob ‚Äô : President Trump <called/> my cellphone to say that the health-care bill was dead,tweeted,10,0.2,‚Äò Hello ~ Bob ‚Äô : President Trump <called/> my cellphone to say that the health-care bill was dead,stole,21203,1.6,2
+11210-3983,‚Äò Help Us ~ Help Us ‚Äô : Swedish National <Police Commissioner/> Begs as Number of No-Go Zones Rises,chef,10100,0.4,‚Äò Help Us ~ Help Us ‚Äô : Swedish National Police Commissioner Begs as Number of No-Go <Zones/> Rises,Restrooms,2110,0.8,2
+11210-5620,‚Äò Help Us ~ Help Us ‚Äô : Swedish National <Police Commissioner/> Begs as Number of No-Go Zones Rises,chef,10100,0.4,‚Äò Help Us ~ Help Us ‚Äô : Swedish National Police Commissioner Begs as Number of No-Go <Zones/> Rises,discos,33011,1.6,2
+3983-5620,‚Äò Help Us ~ Help Us ‚Äô : Swedish National Police Commissioner Begs as Number of No-Go <Zones/> Rises,Restrooms,2110,0.8,‚Äò Help Us ~ Help Us ‚Äô : Swedish National Police Commissioner Begs as Number of No-Go <Zones/> Rises,discos,33011,1.6,2
+13882-10453,‚Äò I certainly meant no <disrespect/> ‚Äô : Kellyanne Conway addresses her pose in the Oval Office photo,respect,33222,2.4,‚Äò I certainly meant no disrespect ‚Äô : Kellyanne Conway addresses her <pose/> in the Oval Office photo,hair,30112,1.4,1
+13882-4213,‚Äò I certainly meant no <disrespect/> ‚Äô : Kellyanne Conway addresses her pose in the Oval Office photo,respect,33222,2.4,‚Äò I certainly meant no disrespect ‚Äô : Kellyanne Conway addresses her <pose/> in the Oval Office photo,father,1100,0.4,1
+10453-4213,‚Äò I certainly meant no disrespect ‚Äô : Kellyanne Conway addresses her <pose/> in the Oval Office photo,hair,30112,1.4,‚Äò I certainly meant no disrespect ‚Äô : Kellyanne Conway addresses her <pose/> in the Oval Office photo,father,1100,0.4,1
+8122-2507,‚Äò I do n‚Äôt know how you <survive/> this one ~ ‚Äô Christie says of Pruitt,open,22300,1.4,‚Äò I do n‚Äôt know how you <survive/> this one ~ ‚Äô Christie says of Pruitt,eat,21211,1.4,0
+8122-2577,‚Äò I do n‚Äôt know how you <survive/> this one ~ ‚Äô Christie says of Pruitt,open,22300,1.4,‚Äò I do n‚Äôt <know/> how you survive this one ~ ‚Äô Christie says of Pruitt,care,21200,1,1
+2507-2577,‚Äò I do n‚Äôt know how you <survive/> this one ~ ‚Äô Christie says of Pruitt,eat,21211,1.4,‚Äò I do n‚Äôt <know/> how you survive this one ~ ‚Äô Christie says of Pruitt,care,21200,1,1
+5021-5151,‚Äò It Was Great ! ‚Äô ‚Äî Donald Trump Thanks <Steve Bannon/> for His Service,donkey,12020,1,‚Äò It Was Great ! ‚Äô ‚Äî Donald Trump Thanks Steve Bannon for His <Service/> ,watch,2022,1.2,2
+5021-3001,‚Äò It Was Great ! ‚Äô ‚Äî Donald Trump Thanks <Steve Bannon/> for His Service,donkey,12020,1,‚Äò It Was Great ! ‚Äô ‚Äî Donald Trump Thanks Steve Bannon for His <Service/> ,Gift,10000,0.2,1
+5151-3001,‚Äò It Was Great ! ‚Äô ‚Äî Donald Trump Thanks Steve Bannon for His <Service/> ,watch,2022,1.2,‚Äò It Was Great ! ‚Äô ‚Äî Donald Trump Thanks Steve Bannon for His <Service/> ,Gift,10000,0.2,1
+10314-654,‚Äò Maybe the Russians Are Still <Messing/> With Our Heads ‚Äô,plotting,20001,0.6,‚Äò Maybe the Russians Are Still Messing With Our <Heads/> ‚Äô,hair,12020,1,2
+10314-353,‚Äò Maybe the Russians Are Still <Messing/> With Our Heads ‚Äô,plotting,20001,0.6,‚Äò Maybe the <Russians/> Are Still Messing With Our Heads ‚Äô,Aliens,10221,1.2,2
+654-353,‚Äò Maybe the Russians Are Still Messing With Our <Heads/> ‚Äô,hair,12020,1,‚Äò Maybe the <Russians/> Are Still Messing With Our Heads ‚Äô,Aliens,10221,1.2,2
+12276-14980,‚Äò Move fast and break <things/> ‚Äô : Trump ‚Äôs healthcare failure and the backlash ahead,wind,22121,1.6,‚Äò Move fast and break things ‚Äô : Trump ‚Äôs <healthcare/> failure and the backlash ahead,driving,20232,1.8,2
+12276-15024,‚Äò Move fast and break <things/> ‚Äô : Trump ‚Äôs healthcare failure and the backlash ahead,wind,22121,1.6,‚Äò Move fast and break <things/> ‚Äô : Trump ‚Äôs healthcare failure and the backlash ahead,bones,21130,1.4,1
+14980-15024,‚Äò Move fast and break things ‚Äô : Trump ‚Äôs <healthcare/> failure and the backlash ahead,driving,20232,1.8,‚Äò Move fast and break <things/> ‚Äô : Trump ‚Äôs healthcare failure and the backlash ahead,bones,21130,1.4,1
+3965-8459,‚Äò Noncriminal ‚Äô immigrant <arrests/> double in past year : report,harassments,0,0,‚Äò Noncriminal ‚Äô immigrant <arrests/> double in past year : report,festivals,21130,1.4,2
+3965-14909,‚Äò Noncriminal ‚Äô immigrant <arrests/> double in past year : report,harassments,0,0,‚Äò Noncriminal ‚Äô immigrant <arrests/> double in past year : report,ages,10110,0.6,2
+8459-14909,‚Äò Noncriminal ‚Äô immigrant <arrests/> double in past year : report,festivals,21130,1.4,‚Äò Noncriminal ‚Äô immigrant <arrests/> double in past year : report,ages,10110,0.6,1
+1018-10587,‚Äò So disgraceful ‚Äô : Trump lashes out at <publication/> of special counsel questions,tweet,20001,0.6,‚Äò So disgraceful ‚Äô : Trump lashes out at publication of special counsel <questions/> ,mascara,20111,1,2
+1018-12545,‚Äò So disgraceful ‚Äô : Trump lashes out at <publication/> of special counsel questions,tweet,20001,0.6,‚Äò So disgraceful ‚Äô : Trump lashes out at publication of special counsel <questions/> ,measurements,10021,0.8,2
+10587-12545,‚Äò So disgraceful ‚Äô : Trump lashes out at publication of special counsel <questions/> ,mascara,20111,1,‚Äò So disgraceful ‚Äô : Trump lashes out at publication of special counsel <questions/> ,measurements,10021,0.8,1
+6768-9205,‚Äò Straight up stupid ~ ' ' incompetent ' and ' misguided ‚Äô : <Economist/> Adam Posen rips Trump 's tariffs,thesaurus,1000,0.2,‚Äò Straight up stupid ~ ' ' incompetent ' and ' misguided ‚Äô : Economist Adam Posen <rips/> Trump 's tariffs,explains,20021,1,2
+6768-7533,‚Äò Straight up stupid ~ ' ' incompetent ' and ' misguided ‚Äô : <Economist/> Adam Posen rips Trump 's tariffs,thesaurus,1000,0.2,‚Äò Straight up stupid ~ ' ' incompetent ' and ' misguided ‚Äô : <Economist/> Adam Posen rips Trump 's tariffs,Bully,11001,0.6,2
+9205-7533,‚Äò Straight up stupid ~ ' ' incompetent ' and ' misguided ‚Äô : Economist Adam Posen <rips/> Trump 's tariffs,explains,20021,1,‚Äò Straight up stupid ~ ' ' incompetent ' and ' misguided ‚Äô : <Economist/> Adam Posen rips Trump 's tariffs,Bully,11001,0.6,1
+12719-6828,‚Äò Trump Effect ‚Äô Wears Off as <Migrants/> Resume Their Northward Push,Dancers,11,0.4,‚Äò Trump Effect ‚Äô Wears Off as <Migrants/> Resume Their Northward Push,butterflies,232,1.4,2
+12719-2148,‚Äò Trump Effect ‚Äô Wears Off as <Migrants/> Resume Their Northward Push,Dancers,11,0.4,‚Äò Trump Effect ‚Äô Wears Off as <Migrants/> Resume Their Northward Push,birds,10001,0.4,0
+6828-2148,‚Äò Trump Effect ‚Äô Wears Off as <Migrants/> Resume Their Northward Push,butterflies,232,1.4,‚Äò Trump Effect ‚Äô Wears Off as <Migrants/> Resume Their Northward Push,birds,10001,0.4,1
+975-13357,"‚Äú It ‚Äôs painfully obvious "" Mueller will charge <Trump/> says Roger Stone . Obstruction of justice or "" process-related matter ‚Äù most likely .",battery,1,0.2,"‚Äú It ‚Äôs painfully obvious "" Mueller will charge Trump says Roger Stone . Obstruction of <justice/> or "" process-related matter ‚Äù most likely .",plumbing,11103,1.2,2
+975-11773,"‚Äú It ‚Äôs painfully obvious "" Mueller will charge <Trump/> says Roger Stone . Obstruction of justice or "" process-related matter ‚Äù most likely .",battery,1,0.2,"‚Äú It ‚Äôs painfully obvious "" Mueller will <charge/> Trump says Roger Stone . Obstruction of justice or "" process-related matter ‚Äù most likely .",strangle,22331,2.2,2
+13357-11773,"‚Äú It ‚Äôs painfully obvious "" Mueller will charge Trump says Roger Stone . Obstruction of <justice/> or "" process-related matter ‚Äù most likely .",plumbing,11103,1.2,"‚Äú It ‚Äôs painfully obvious "" Mueller will <charge/> Trump says Roger Stone . Obstruction of justice or "" process-related matter ‚Äù most likely .",strangle,22331,2.2,2
+14954-14479,‚Äú Kompromat ~ ‚Äù media ethics and the law : What happens if a Russian <scandal/> video of Donald Trump does surface ?,porn,20101,0.8,‚Äú Kompromat ~ ‚Äù media ethics and the law : What happens if a Russian <scandal/> video of Donald Trump does surface ?,dance,32112,1.8,2
+6354-12970,‚Äú Son of a bitch ‚Äù : Trump ‚Äôs NFL <outburst/> fits a larger pattern,tantrum,3111130000,1,‚Äú Son of a <bitch/> ‚Äù : Trump ‚Äôs NFL outburst fits a larger pattern,father,10000,0.2,1
