@@ -24,7 +24,7 @@ conda install -c powerai sentencepiece
 ############### PREPROCESSING ###################################
 #################################################################
 
-from gensim.models import Word2Vec
+import gensim
 import sys
 import re
 
@@ -71,9 +71,8 @@ def convert_tokens_to_max(listOfTokens,max_length):
 def convert_token_to_embedding(listOfTokens, listOfScores): 
     #This model is trained off of the vocabulary in the training set
     
-    embedding_length = 100
-    model = Word2Vec(listOfTokens,size=embedding_length)
-    
+    embedding_length = 300
+    model = gensim.models.KeyedVectors.load_word2vec_format('lexvec.enwiki+newscrawl.300d.W.pos.vectors.gz', binary=True)  
     vocab = list(model.wv.vocab)
     
     listOfTokens = convert_tokens_to_max(listOfTokens, max_sentence_length(listOfTokens))
@@ -197,6 +196,7 @@ def binary_accuracy(predictions, outputs):
     val = True
     for idx, i in enumerate(predictions): 
         tmp = [outputs[idx]-.1, outputs[idx]+.1]
+        print(i,outputs[idx])
         if (i < tmp[0]) | (i > tmp[1]): 
             val = False
     return val
@@ -281,7 +281,7 @@ def main():
     
     print("Doing setup...")
     INPUT_DIM = max_sentence_length(tokens)
-    EMBEDDING_DIM = 100
+    EMBEDDING_DIM = 300
     N_FILTERS = 100
     FILTER_SIZES = [2,3,4]
     OUTPUT_DIM = 1
@@ -307,7 +307,7 @@ def main():
     criterion = criterion.to(device)
     
     
-    N_EPOCHS = 50
+    N_EPOCHS = 5
 
     best_valid_loss = float('inf')
     
