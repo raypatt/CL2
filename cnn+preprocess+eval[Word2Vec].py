@@ -349,8 +349,8 @@ def evaluate(filePath, model, vector_model, max_length, vocab) :
             ### Test if headlines are correctly paired
             ## This prints the first word embedding of the first test in both clusters
             ## It prints the cluster ID before the first word embedding of the first test of that cluster
-            print (str(chunk_idx) + str((c1_list[0][0])))
-            print (str(chunk_idx) + str((c2_list[0][0])))
+            #print (str(chunk_idx) + str((c1_list[0][0])))
+            #print (str(chunk_idx) + str((c2_list[0][0])))
             
             actual_labels = []
             for idx, c1_score in enumerate(c1_scores):
