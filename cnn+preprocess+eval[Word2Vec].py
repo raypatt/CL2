@@ -322,11 +322,16 @@ def evaluate(filePath, model, vector_model, max_length, vocab) :
     embedded_tests = tests_to_embeddings(max_length, tests, vector_model, vocab)[2:]
     
     chunked_embedded_tests = chunks(embedded_tests, 10)
+    chunked_tests = chunks(tests, 10) 
     
     
+    tmp_tests = []
+    for c in chunked_tests:
+        tmp_tests.append(c)
+        
     total_correct = 0
     total = 0 
-    for chunk in chunked_embedded_tests:
+    for chunk_idx, chunk in enumerate(chunked_embedded_tests):
         c1_list = []
         c2_list = []
         chunk_labels = []
@@ -343,6 +348,9 @@ def evaluate(filePath, model, vector_model, max_length, vocab) :
             actual_labels = []
             for idx, c1_score in enumerate(c1_scores):
                 label = 0
+                
+                print (tmp_tests[chunk_idx][idx])
+                
                 if c1_score > c2_scores[idx]: 
                     label = 1
                 if c1_score < c2_scores[idx]:
@@ -451,7 +459,7 @@ def main():
     criterion = criterion.to(device)
     
     
-    N_EPOCHS = 50
+    N_EPOCHS = 5
 
     best_valid_loss = float('inf')
     
