@@ -1,0 +1,320 @@
+"('original1', 'original2', 'label\n')",1
+"('White person moves to distance Trump from shutdown', 'White House moves to distance computer from shutdown', '1\n')",2
+"('White person moves to distance Trump from shutdown', 'White House moves to save Trump from shutdown', '1\n')",1
+"('White House moves to distance computer from shutdown', 'White House moves to save Trump from shutdown', '2\n')",1
+"('White House official says GOP has deal on beef cuts', 'White House official says GOP has bets on tax cuts', '1\n')",2
+"('White House official says GOP has deal on beef cuts', 'White House official says GOP has deal on deli cuts', '2\n')",2
+"('White House official says GOP has bets on tax cuts', 'White House official says GOP has deal on deli cuts', '2\n')",2
+"('White House physician : painter is in excellent physical and mental health', ' Out House physician : Trump is in excellent physical and mental health', '2\n')",2
+"('White House physician : painter is in excellent physical and mental health', ' pink House physician : Trump is in excellent physical and mental health', '0\n')",2
+"(' Out House physician : Trump is in excellent physical and mental health', ' pink House physician : Trump is in excellent physical and mental health', '1\n')",1
+"('White House princeling Jared Kushner ~ partied down and on the verge of exile', 'White House princeling Jared Kushner ~ stripped down and on the verge of tears ', '1\n')",1
+"('White House princeling Jared Kushner ~ partied down and on the verge of exile', 'White bear princeling Jared Kushner ~ stripped down and on the verge of exile', '1\n')",2
+"('White House princeling Jared Kushner ~ stripped down and on the verge of tears ', 'White bear princeling Jared Kushner ~ stripped down and on the verge of exile', '1\n')",2
+"('White people Red Scare', 'White barn Red Scare', '1\n')",2
+"('White people Red Scare', 'White House <Red Scare/> ', '2\n')",1
+"('White barn Red Scare', 'White House <Red Scare/> ', '2\n')",1
+"('White House says there â\x80\x9aÃ\x84Ã´s no need for new Russia dolls ', 'White House says there â\x80\x9aÃ\x84Ã´s no need for new Russia vacations ', '0\n')",1
+"('White House says there â\x80\x9aÃ\x84Ã´s no need for new Russia dolls ', 'White House says there â\x80\x9aÃ\x84Ã´s no need for new Russia celebration ', '1\n')",1
+"('White House says there â\x80\x9aÃ\x84Ã´s no need for new Russia vacations ', 'White House says there â\x80\x9aÃ\x84Ã´s no need for new Russia celebration ', '1\n')",1
+"("" Waffle House says Trump is n't considering firing Mueller"", ""White House jokes Trump is n't considering firing Mueller"", '1\n')",2
+"("" Waffle House says Trump is n't considering firing Mueller"", "" green House says Trump is n't considering firing Mueller"", '1\n')",1
+"(""White House jokes Trump is n't considering firing Mueller"", "" green House says Trump is n't considering firing Mueller"", '1\n')",2
+"(""White House says Trump unaware of Flynn 's foreign fish work"", ""White House says Trump unaware of Flynn 's foreign welding work"", '1\n')",1
+"(""White House says Trump unaware of Flynn 's foreign fish work"", ""White House says Trump unaware of Flynn 's foreign singing work"", '2\n')",1
+"(""White House says Trump unaware of Flynn 's foreign welding work"", ""White House says Trump unaware of Flynn 's foreign singing work"", '2\n')",1
+"(""White House psychic : â\x80\x9aÃ\x84Ã² I ca n't speak to the future of Scott Pruitt â\x80\x9aÃ\x84Ã´"", ""White House spokesman : â\x80\x9aÃ\x84Ã² I ca n't speak to the dentures of Scott Pruitt â\x80\x9aÃ\x84Ã´"", '2\n')",2
+"(""White House psychic : â\x80\x9aÃ\x84Ã² I ca n't speak to the future of Scott Pruitt â\x80\x9aÃ\x84Ã´"", ""White House spokesman : â\x80\x9aÃ\x84Ã² I ca n't speak to the wardrobe of Scott Pruitt â\x80\x9aÃ\x84Ã´"", '2\n')",1
+"(""White House spokesman : â\x80\x9aÃ\x84Ã² I ca n't speak to the dentures of Scott Pruitt â\x80\x9aÃ\x84Ã´"", ""White House spokesman : â\x80\x9aÃ\x84Ã² I ca n't speak to the wardrobe of Scott Pruitt â\x80\x9aÃ\x84Ã´"", '2\n')",2
+"(""White House clown calls Trump a ' real-life Superman '"", ""White House spokesman calls spiderman a ' real-life Superman '"", '0\n')",2
+"(""White House clown calls Trump a ' real-life Superman '"", ""White Supremacist spokesman calls Trump a ' real-life Superman '"", '1\n')",1
+"(""White House spokesman calls spiderman a ' real-life Superman '"", ""White Supremacist spokesman calls Trump a ' real-life Superman '"", '1\n')",2
+"('""White House temporarily removes """" We the People """" petition toy ""', '""White House temporarily removes """" We the Witches """" petition tool""', '2\n')",1
+"(""White House under fire for suggesting general 's lies should not be questioned"", ""White House under fire for suggesting general 's weight should not be questioned"", '2\n')",1
+"(""White House under fire for suggesting general 's lies should not be questioned"", ""White House under fire for suggesting general 's answers should not be questioned"", '0\n')",2
+"(""White House under fire for suggesting general 's weight should not be questioned"", ""White House under fire for suggesting general 's answers should not be questioned"", '1\n')",2
+"(""White House Was Warned of Aide 's Odor Months Earlier Than Acknowledged"", ""White House Was Warned of computer 's Background Months Earlier Than Acknowledged"", '1\n')",2
+"(""White House Was Warned of Aide 's Odor Months Earlier Than Acknowledged"", ""White dove Was Warned of Aide 's Background Months Earlier Than Acknowledged"", '1\n')",2
+"(""White House Was Warned of computer 's Background Months Earlier Than Acknowledged"", ""White dove Was Warned of Aide 's Background Months Earlier Than Acknowledged"", '1\n')",2
+"('White House Weighs swapping Tillerson With Pompeo', 'White House Weighs matchmaking Tillerson With Pompeo', '2\n')",2
+"('White House Weighs swapping Tillerson With Pompeo', 'White House Weighs crossbreeding Tillerson With Pompeo', '2\n')",1
+"('White House Weighs matchmaking Tillerson With Pompeo', 'White House Weighs crossbreeding Tillerson With Pompeo', '1\n')",2
+"('White House works to release Republican soundtrack despite FBI warning', 'White House works to release Republican kraken despite FBI warning', '1\n')",2
+"('White House works to release Republican soundtrack despite FBI warning', 'White House works to release Republican memo despite FBI footnotes ', '1\n')",1
+"('White House works to release Republican kraken despite FBI warning', 'White House works to release Republican memo despite FBI footnotes ', '1\n')",2
+"('White Nationalist Joins Trump in Campaign Rally Assault Suit', 'White Nationalist Blames Toddler in Campaign Rally Assault Suit', '2\n')",2
+"('White Nationalist Joins Trump in Campaign Rally Assault Suit', 'White Nationalist Blames kitten in Campaign Rally Assault Suit', '2\n')",2
+"('White Nationalist Blames Toddler in Campaign Rally Assault Suit', 'White Nationalist Blames kitten in Campaign Rally Assault Suit', '2\n')",2
+"('White marshmallow activity on the rise on college campuses since election', 'White cookie activity on the rise on college campuses since election', '1\n')",2
+"('White marshmallow activity on the rise on college campuses since election', 'White supremacist activity on the rise on college campuses since Halloween ', '1\n')",2
+"('White cookie activity on the rise on college campuses since election', 'White supremacist activity on the rise on college campuses since Halloween ', '0\n')",2
+"('White musician hate crimes surge in LA amid growing swastika graffiti', 'White supremacist art crimes surge in LA amid growing swastika graffiti', '2\n')",1
+"('White musician hate crimes surge in LA amid growing swastika graffiti', 'White supremacist hate plugs surge in LA amid growing swastika graffiti', '1\n')",2
+"('White supremacist art crimes surge in LA amid growing swastika graffiti', 'White supremacist hate plugs surge in LA amid growing swastika graffiti', '1\n')",1
+"('Who is Carter Page and why did the FBI suspect he was a Russian pet ?', 'Who is Carter Page and why did the FBI suspect he was a Russian doll ?', '2\n')",1
+"('Who is Sergey Kislyak ~ and how did he become the hottest dance ticket in Washington ?', 'Who is Sergey Kislyak ~ and how did he eat the hottest meeting ticket in Washington ?', '1\n')",1
+"('Who is Sergey Kislyak ~ and how did he become the hottest dance ticket in Washington ?', 'Who is Sergey Kislyak ~ and how did he become the hottest quilting ticket in Washington ?', '1\n')",2
+"('Who is Sergey Kislyak ~ and how did he eat the hottest meeting ticket in Washington ?', 'Who is Sergey Kislyak ~ and how did he become the hottest quilting ticket in Washington ?', '1\n')",2
+"('Who Is The Mystery Megalomaniac Behind @realDonaldTrump ? ( Besides The President )', 'Who Is The Mystery turnip Behind @realDonaldTrump ? ( Besides The President )', '1\n')",1
+"('Who Is The Mystery Megalomaniac Behind @realDonaldTrump ? ( Besides The President )', 'Who Is The Mystery Man Behind @realDonaldTrump ? ( Besides The devil )', '0\n')",1
+"('Who Is The Mystery turnip Behind @realDonaldTrump ? ( Besides The President )', 'Who Is The Mystery Man Behind @realDonaldTrump ? ( Besides The devil )', '2\n')",1
+"('Whoops ! FBI â\x80\x9aÃ\x84Ã² Loses â\x80\x9aÃ\x84Ã´ Five Months of Texts Between FBI Agents Peter Strzok and Lisa Hodgepodge ', 'Whoops ! FBI â\x80\x9aÃ\x84Ã² discards â\x80\x9aÃ\x84Ã´ Five Months of Texts Between FBI Agents Peter Strzok and Lisa Page', '2\n')",2
+"('Whoops ! FBI â\x80\x9aÃ\x84Ã² Loses â\x80\x9aÃ\x84Ã´ Five Months of Texts Between FBI Agents Peter Strzok and Lisa Hodgepodge ', 'Whoops ! FBI â\x80\x9aÃ\x84Ã² Loses â\x80\x9aÃ\x84Ã´ Five Months of cuddling Between FBI Agents Peter Strzok and Lisa Page', '2\n')",2
+"('Whoops ! FBI â\x80\x9aÃ\x84Ã² discards â\x80\x9aÃ\x84Ã´ Five Months of Texts Between FBI Agents Peter Strzok and Lisa Page', 'Whoops ! FBI â\x80\x9aÃ\x84Ã² Loses â\x80\x9aÃ\x84Ã´ Five Months of cuddling Between FBI Agents Peter Strzok and Lisa Page', '2\n')",1
+"('Who really is Trump ? President â\x80\x9aÃ\x84Ã´s Nevada speech wildly different from Arizona circus ', 'Who really is Trump ? President â\x80\x9aÃ\x84Ã´s Nevada speech wildly different from Arizona temperature ', '2\n')",1
+"('Who really is Trump ? President â\x80\x9aÃ\x84Ã´s Nevada speech wildly different from Arizona circus ', 'Who really is Trump ? President â\x80\x9aÃ\x84Ã´s Nevada speech wildly different from pep rally', '0\n')",1
+"('Who really is Trump ? President â\x80\x9aÃ\x84Ã´s Nevada speech wildly different from Arizona temperature ', 'Who really is Trump ? President â\x80\x9aÃ\x84Ã´s Nevada speech wildly different from pep rally', '1\n')",2
+"(""Who to believe on UK spy attack : official reality or Trump 's equivocation ?"", ""Who to believe on UK spy attack : official condemnation or Trump 's astrologer ?"", '2\n')",1
+"(""Who to believe on UK spy attack : official reality or Trump 's equivocation ?"", ""Who to believe on UK allergy attack : official condemnation or Trump 's equivocation ?"", '1\n')",2
+"(""Who to believe on UK spy attack : official condemnation or Trump 's astrologer ?"", ""Who to believe on UK allergy attack : official condemnation or Trump 's equivocation ?"", '1\n')",2
+"('Who will Democrats sacrificial virgin be in 2020 ?', 'Who will Democrats sacrificial pastry be in 2020 ?', '1\n')",1
+"('Who will Democrats sacrificial virgin be in 2020 ?', 'Who will Democrats sacrificial goat be in 2020 ?', '1\n')",2
+"('Who will Democrats sacrificial pastry be in 2020 ?', 'Who will Democrats sacrificial goat be in 2020 ?', '0\n')",1
+"('Who â\x80\x9aÃ\x84Ã´s more cynically using religion : Trump or his religious right eyelid ?', 'Who â\x80\x9aÃ\x84Ã´s more cynically using truth : Trump or his religious right boosters ?', '1\n')",2
+"('Who â\x80\x9aÃ\x84Ã´s more cynically using religion : Trump or his religious right eyelid ?', 'Who â\x80\x9aÃ\x84Ã´s more cynically using religion : Trump or his religious right Hairpiece ?', '1\n')",2
+"('Who â\x80\x9aÃ\x84Ã´s more cynically using truth : Trump or his religious right boosters ?', 'Who â\x80\x9aÃ\x84Ã´s more cynically using religion : Trump or his religious right Hairpiece ?', '2\n')",2
+"('Why Access To Planned seance Is Vital And Must Be Protected', 'Why Access To Planned picnics Is Vital And Must Be Protected', '2\n')",1
+"('Why Access To Planned seance Is Vital And Must Be Protected', 'Why Access To Planned haircuts Is Vital And Must Be Protected', '2\n')",2
+"('Why Access To Planned picnics Is Vital And Must Be Protected', 'Why Access To Planned haircuts Is Vital And Must Be Protected', '1\n')",2
+"(""Why African millennials ca n't understand enough of Bitcoin"", ""Why African millennials ca n't steal enough of Bitcoin"", '1\n')",1
+"(""Why African millennials ca n't understand enough of Bitcoin"", ""Why African millennials ca n't eat enough of Bitcoin"", '1\n')",2
+"(""Why African millennials ca n't steal enough of Bitcoin"", ""Why African millennials ca n't eat enough of Bitcoin"", '2\n')",2
+"('Why Poodles hate paying taxes', 'Why Americans hate paying alimony ', '1\n')",1
+"('Why Poodles hate paying taxes', 'Why Americans love paying taxes', '1\n')",1
+"('Why Americans hate paying alimony ', 'Why Americans love paying taxes', '1\n')",1
+"('Why America â\x80\x9aÃ\x84Ã´s 2-party banger is on a collision course with our constitutional democracy', 'Why America â\x80\x9aÃ\x84Ã´s 2-party morons is on a collision course with our constitutional democracy', '2\n')",2
+"('Why America â\x80\x9aÃ\x84Ã´s 2-party banger is on a collision course with our constitutional democracy', 'Why fraternity â\x80\x9aÃ\x84Ã´s 2-party system is on a collision course with our constitutional democracy', '2\n')",1
+"('Why America â\x80\x9aÃ\x84Ã´s 2-party morons is on a collision course with our constitutional democracy', 'Why fraternity â\x80\x9aÃ\x84Ã´s 2-party system is on a collision course with our constitutional democracy', '1\n')",1
+"('Why blue states might ditch beloved Obamacare disasters ', 'Why blue bloods might ditch beloved Obamacare protections', '1\n')",2
+"('Why blue states might ditch beloved Obamacare disasters ', 'Why blue jeans might ditch beloved Obamacare protections', '1\n')",2
+"('Why blue bloods might ditch beloved Obamacare protections', 'Why blue jeans might ditch beloved Obamacare protections', '2\n')",1
+"('Why robbers Must Support Gun Control', 'Why Christians Must Support <Gun Control/> ', '1\n')",1
+"('Why robbers Must Support Gun Control', 'Why criminals Must Support Gun Control', '1\n')",1
+"('Why Christians Must Support <Gun Control/> ', 'Why criminals Must Support Gun Control', '2\n')",1
+"('Why Congress just killed a rule restricting sewer companies from dumping waste in streams', 'Why Congress just killed a rule restricting coal companies from dumping children in streams', '2\n')",1
+"('Why Congress just killed a rule restricting sewer companies from dumping waste in streams', 'Why Congress just killed a rule restricting coal companies from dumping glitter in streams', '2\n')",1
+"('Why Congress just killed a rule restricting coal companies from dumping children in streams', 'Why Congress just killed a rule restricting coal companies from dumping glitter in streams', '2\n')",1
+"(""Why Donald Trump 's NASA Chief Pick Is a Controversial idiot "", ""Why Donald Trump 's NASA Chief chef Is a Controversial Choice"", '2\n')",2
+"(""Why Donald Trump 's NASA Chief Pick Is a Controversial idiot "", ""Why Donald Trump 's NASA Chief penguin Is a Controversial Choice"", '2\n')",2
+"(""Why Donald Trump 's NASA Chief chef Is a Controversial Choice"", ""Why Donald Trump 's NASA Chief penguin Is a Controversial Choice"", '2\n')",1
+"('Why Gorsuch could lead ducks in wrong direction', 'Why Gorsuch could lead parade in wrong direction', '2\n')",2
+"('Why Gorsuch could lead ducks in wrong direction', 'Why Gorsuch could lead goats in wrong direction', '1\n')",1
+"('Why Gorsuch could lead parade in wrong direction', 'Why Gorsuch could lead goats in wrong direction', '1\n')",2
+"('Why Hillary Clinton Lost To <Donald Trump/> ', 'Why Hillary Clinton Lost To <Donald Trump/> ', '2\n')",1
+"('Why Hillary Clinton Lost To <Donald Trump/> ', 'Why Hillary Clinton Lost To <Donald Trump/> ', '2\n')",2
+"('Why Hillary Clinton Lost To <Donald Trump/> ', 'Why Hillary Clinton Lost To <Donald Trump/> ', '1\n')",2
+"('Why Hillary Clinton Was â\x80\x9aÃ\x84Ã² Shocked â\x80\x9aÃ\x84Ã´ Over Her Campaign eating Routine', 'Why Hillary Clinton Was â\x80\x9aÃ\x84Ã² Shocked â\x80\x9aÃ\x84Ã´ Over Her Campaign Beauty cleanser ', '1\n')",2
+"('Why Hillary Clinton Was â\x80\x9aÃ\x84Ã² Shocked â\x80\x9aÃ\x84Ã´ Over Her Campaign eating Routine', 'Why Hillary Clinton Was â\x80\x9aÃ\x84Ã² Shocked â\x80\x9aÃ\x84Ã´ Over Her Campaign Beauty pageant ', '2\n')",2
+"('Why Hillary Clinton Was â\x80\x9aÃ\x84Ã² Shocked â\x80\x9aÃ\x84Ã´ Over Her Campaign Beauty cleanser ', 'Why Hillary Clinton Was â\x80\x9aÃ\x84Ã² Shocked â\x80\x9aÃ\x84Ã´ Over Her Campaign Beauty pageant ', '2\n')",2
+"('Why is Donald Trump so cozy with the Kremlin ? A political scientist and urology expert breaks down the theories', 'Why is Donald Trump so cozy with the children ? A political scientist and Russia expert breaks down the theories', '1\n')",1
+"('Why is Donald Trump so cozy with the Kremlin ? A political scientist and urology expert breaks down the theories', 'Why is Donald Trump so cozy with the blanket ? A political scientist and Russia expert breaks down the theories', '2\n')",2
+"('Why is Donald Trump so cozy with the children ? A political scientist and Russia expert breaks down the theories', 'Why is Donald Trump so cozy with the blanket ? A political scientist and Russia expert breaks down the theories', '2\n')",2
+"('Why is Mike Pence romancing the Trump base ? Because he could become principal ~ sooner than we think', 'Why is Mike Pence romancing the Trump stone ? Because he could become president ~ sooner than we think', '2\n')",2
+"('Why is Mike Pence romancing the Trump base ? Because he could become principal ~ sooner than we think', 'Why is Mike Pence romancing the Trump base ? Because he could become president ~ sooner than we want ', '2\n')",2
+"('Why is Mike Pence romancing the Trump stone ? Because he could become president ~ sooner than we think', 'Why is Mike Pence romancing the Trump base ? Because he could become president ~ sooner than we want ', '2\n')",2
+"('Why it is time for electricity to go', 'Why it is time for penguins to go', '2\n')",2
+"('Why Japan Is Begging dolphins for Help', 'Why witch Is Begging Trump for Help', '1\n')",1
+"('Why Japan Is Begging dolphins for Help', 'Why nobody Is Begging Trump for Help', '0\n')",2
+"('Why witch Is Begging Trump for Help', 'Why nobody Is Begging Trump for Help', '2\n')",1
+"('Why Obama Just Wrote limericks in 3 Academic Journals', 'Why Obama Just banned Articles in 3 Academic Journals', '1\n')",2
+"('Why Obama Just Wrote limericks in 3 Academic Journals', 'Why Obama Just Wrote Graffiti in 3 Academic Journals', '2\n')",2
+"('Why Obama Just banned Articles in 3 Academic Journals', 'Why Obama Just Wrote Graffiti in 3 Academic Journals', '2\n')",2
+"('Why Senate Republicans â\x80\x9aÃ\x84Ã´ skinny repeal could cause a rainbow spiral', 'Why Senate Republicans â\x80\x9aÃ\x84Ã´ skinny repeal could cause a death explosion ', '1\n')",1
+"('Why Senate Republicans â\x80\x9aÃ\x84Ã´ skinny repeal could cause a rainbow spiral', 'Why Senate Republicans â\x80\x9aÃ\x84Ã´ skinny repeal could cause a fat spiral', '2\n')",2
+"('Why Senate Republicans â\x80\x9aÃ\x84Ã´ skinny repeal could cause a death explosion ', 'Why Senate Republicans â\x80\x9aÃ\x84Ã´ skinny repeal could cause a fat spiral', '2\n')",2
+"('Why should taxpayers subsidize <Joe Arpaio/> â\x80\x9aÃ\x84Ã´s legal defense ?', 'Why should children subsidize Joe Arpaio â\x80\x9aÃ\x84Ã´s legal defense ?', '2\n')",1
+"('Why should taxpayers subsidize <Joe Arpaio/> â\x80\x9aÃ\x84Ã´s legal defense ?', 'Why should taxpayers subsidize Joe Arpaio â\x80\x9aÃ\x84Ã´s legal education ?', '1\n')",2
+"('Why should children subsidize Joe Arpaio â\x80\x9aÃ\x84Ã´s legal defense ?', 'Why should taxpayers subsidize Joe Arpaio â\x80\x9aÃ\x84Ã´s legal education ?', '1\n')",2
+"('Why the United encounter sparked more fires than this violent police incident', 'Why the United encounter sparked more marriages than this violent police incident', '2\n')",2
+"('Why the United encounter sparked more fires than this violent police incident', 'Why the United encounter sparked more outrage than this violent monk incident', '2\n')",2
+"('Why the United encounter sparked more marriages than this violent police incident', 'Why the United encounter sparked more outrage than this violent monk incident', '2\n')",1
+"('Why this political scientist thinks the Democrats have to dance dirty', 'Why this political scientist thinks the squirrel have to fight dirty', '2\n')",1
+"('Why this political scientist thinks the Democrats have to dance dirty', 'Why this political scientist thinks the Democrats have to eat dirty', '1\n')",1
+"('Why this political scientist thinks the squirrel have to fight dirty', 'Why this political scientist thinks the Democrats have to eat dirty', '1\n')",2
+"('Why Trump cutting food stamps could starve lion â\x80\x9aÃ\x84Ã´s economy', 'Why Trump cutting food sources could starve America â\x80\x9aÃ\x84Ã´s economy', '2\n')",2
+"('Why Trump cutting food stamps could starve lion â\x80\x9aÃ\x84Ã´s economy', 'Why Trump cutting food stamps could starve America â\x80\x9aÃ\x84Ã´s people ', '2\n')",2
+"('Why Trump cutting food sources could starve America â\x80\x9aÃ\x84Ã´s economy', 'Why Trump cutting food stamps could starve America â\x80\x9aÃ\x84Ã´s people ', '1\n')",1
+"('Why Trump would really ~ really rather not kiss Scott Pruitt', 'Why Trump would really ~ really rather not milk Scott Pruitt', '1\n')",2
+"('Why Trump would really ~ really rather not kiss Scott Pruitt', 'Why Trump would really ~ really rather not hug Scott Pruitt', '0\n')",2
+"('Why Trump would really ~ really rather not milk Scott Pruitt', 'Why Trump would really ~ really rather not hug Scott Pruitt', '2\n')",1
+"('Why Trump â\x80\x9aÃ\x84Ã´s Mississippi <Civil Rights/> Museum visit is so controversial', 'Why puppy â\x80\x9aÃ\x84Ã´s Mississippi Civil Rights Museum visit is so controversial', '1\n')",1
+"('Why Trump â\x80\x9aÃ\x84Ã´s Mississippi <Civil Rights/> Museum visit is so controversial', 'Why ghost â\x80\x9aÃ\x84Ã´s Mississippi Civil Rights Museum visit is so controversial', '1\n')",1
+"('Why puppy â\x80\x9aÃ\x84Ã´s Mississippi Civil Rights Museum visit is so controversial', 'Why ghost â\x80\x9aÃ\x84Ã´s Mississippi Civil Rights Museum visit is so controversial', '2\n')",1
+"('Why used sanitary pads are being collected in church ', 'Why used sanitary pads are being collected in reactor ', '1\n')",1
+"('Why used sanitary pads are being collected in church ', 'Why used sanitary pads are being collected in restaurant ', '1\n')",2
+"('Why used sanitary pads are being collected in reactor ', 'Why used sanitary pads are being collected in restaurant ', '2\n')",1
+"('Widespread immigrating of candidates cast shadow over Mexican elections', 'Widespread laughter of candidates cast shadow over Mexican elections', '2\n')",1
+"('Widespread immigrating of candidates cast shadow over Mexican elections', 'Widespread killings of animals cast shadow over Mexican elections', '1\n')",2
+"('Widespread laughter of candidates cast shadow over Mexican elections', 'Widespread killings of animals cast shadow over Mexican elections', '1\n')",1
+"(""WikiLeaks ' Assange a janitor in Ecuador presidential runoff"", ""WikiLeaks ' Assange a winner in Ecuador presidential lottery "", '1\n')",1
+"(""Wikileaks ' Sceptical ' Macron surrender Fake ~ As Russia Falls Under Spotlight"", ""Wikileaks ' Sceptical ' Macron Leaks Fake ~ As Russia Dances Under Spotlight"", '2\n')",2
+"(""Wikileaks ' Sceptical ' Macron surrender Fake ~ As Russia Falls Under Spotlight"", ""Wikileaks ' Sceptical ' Macron Teeth Fake ~ As Russia Falls Under Spotlight"", '2\n')",1
+"(""Wikileaks ' Sceptical ' Macron Leaks Fake ~ As Russia Dances Under Spotlight"", ""Wikileaks ' Sceptical ' Macron Teeth Fake ~ As Russia Falls Under Spotlight"", '2\n')",1
+"('WikiLeaks geek Assange loses bid to get U.K. arrest warrant dropped', 'WikiLeaks humanitarian Assange loses bid to get U.K. arrest warrant dropped', '0\n')",2
+"('WikiLeaks geek Assange loses bid to get U.K. arrest warrant dropped', 'WikiLeaks founder Assange loses duel to get U.K. arrest warrant dropped', '0\n')",2
+"('WikiLeaks humanitarian Assange loses bid to get U.K. arrest warrant dropped', 'WikiLeaks founder Assange loses duel to get U.K. arrest warrant dropped', '0\n')",1
+"('WikiLeaks Releases Trove of Alleged C.I.A. Hacking coughs - New York Times', 'WikiLeaks Releases Trove of Alleged C.I.A. Hacking kittens - New York Times', '1\n')",2
+"('WikiLeaks Releases Trove of Alleged C.I.A. Hacking coughs - New York Times', 'WikiLeaks Fabricates Trove of Alleged C.I.A. Hacking Documents - New York Times', '2\n')",2
+"('WikiLeaks Releases Trove of Alleged C.I.A. Hacking kittens - New York Times', 'WikiLeaks Fabricates Trove of Alleged C.I.A. Hacking Documents - New York Times', '2\n')",2
+"('Wilbur Ross surprised there were no mummies in Saudi Arabia', 'Wilbur Ross surprised there were no people in Saudi Arabia', '1\n')",1
+"('Wilbur Ross surprised there were no mummies in Saudi Arabia', 'Wilbur Ross surprised there were no camels in Saudi Arabia', '1\n')",2
+"('Wilbur Ross surprised there were no people in Saudi Arabia', 'Wilbur Ross surprised there were no camels in Saudi Arabia', '1\n')",1
+"('Will children Who Backed Trump in 2016 Back The GOP In 2018 ?', 'Will toddlers Who Backed Trump in 2016 Back The GOP In 2018 ?', '0\n')",2
+"('Will children Who Backed Trump in 2016 Back The GOP In 2018 ?', 'Will roosters Who Backed Trump in 2016 Back The GOP In 2018 ?', '1\n')",2
+"('Will toddlers Who Backed Trump in 2016 Back The GOP In 2018 ?', 'Will roosters Who Backed Trump in 2016 Back The GOP In 2018 ?', '1\n')",1
+"('Will someone save Trump from this disastrous haircut ?', 'Will someone save Trump from this disastrous wardrobe ?', '1\n')",1
+"('Will someone save Trump from this disastrous haircut ?', 'Will someone save Trump from this disastrous presidency ?', '0\n')",2
+"('Will someone save Trump from this disastrous wardrobe ?', 'Will someone save Trump from this disastrous presidency ?', '2\n')",2
+"('Will Sweden Become the First bum to Go Cash-Free ?', 'Will Sweden reward the First Country to Go Cash-Free ?', '1\n')",2
+"('Will Sweden Become the First bum to Go Cash-Free ?', 'Will Sweden Become the First wrestler to Go Cash-Free ?', '1\n')",2
+"('Will Sweden reward the First Country to Go Cash-Free ?', 'Will Sweden Become the First wrestler to Go Cash-Free ?', '2\n')",1
+"(""Will Trump 's possible testimony end the Mueller probe â\x80\x9aÃ\x84Ã® or is it just confusing ?"", ""Will Trump 's possible tantrum end the Mueller probe â\x80\x9aÃ\x84Ã® or is it just starting ?"", '2\n')",1
+"('Will Trump Be Impeached Based on Michael Flynn â\x80\x9aÃ\x84Ã´s peach Revelations ?', 'Will Trump Be Impeached Based on Michael Flynn â\x80\x9aÃ\x84Ã´s Russia dressings ?', '2\n')",2
+"('Will Trump Be Impeached Based on Michael Flynn â\x80\x9aÃ\x84Ã´s peach Revelations ?', 'Will Trump Be Impeached Based on Michael Flynn â\x80\x9aÃ\x84Ã´s divine Revelations ?', '1\n')",2
+"('Will Trump Be Impeached Based on Michael Flynn â\x80\x9aÃ\x84Ã´s Russia dressings ?', 'Will Trump Be Impeached Based on Michael Flynn â\x80\x9aÃ\x84Ã´s divine Revelations ?', '1\n')",2
+"('Will Trump Order Seth Rich Murder Investigation ? Former newscasters Say Democrats Killed Staffer to Protect Hillary Clinton', 'Will Trump Order Seth Rich Murder Investigation ? Former Aides Say Democrats Killed Staffer to Protect <Hillary Clinton/> ', '1\n')",1
+"('Wisconsin Ironworker Challenges Paul Ryan For toilet Seat', 'Wisconsin Ironworker Challenges Paul Ryan For House cat ', '1\n')",1
+"('Wisconsin Ironworker Challenges Paul Ryan For toilet Seat', 'Wisconsin Ironworker Challenges Paul Ryan For Bicycle Seat', '0\n')",1
+"('Wisconsin Ironworker Challenges Paul Ryan For House cat ', 'Wisconsin Ironworker Challenges Paul Ryan For Bicycle Seat', '2\n')",1
+"(""With ' Pussyhats ~ ' Liberals Get Their Own Version Of The Red Trucker eyesore "", ""With ' Pussyhats ~ ' Kittens Get Their Own Version Of The Red Trucker Hat"", '0\n')",2
+"(""With ' Pussyhats ~ ' Liberals Get Their Own Version Of The Red Trucker eyesore "", ""With ' Pussyhats ~ ' Rednecks Get Their Own Version Of The Red Trucker Hat"", '1\n')",2
+"(""With ' Pussyhats ~ ' Kittens Get Their Own Version Of The Red Trucker Hat"", ""With ' Pussyhats ~ ' Rednecks Get Their Own Version Of The Red Trucker Hat"", '1\n')",2
+"('With 60 Killed In Gaza ~ U.N. Rights Commissioner Applauds Israel', 'With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes Pasta ', '2\n')",2
+"('With 60 Killed In Gaza ~ U.N. Rights Commissioner Applauds Israel', 'With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes cupcakes ', '2\n')",1
+"('With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes Pasta ', 'With 60 Killed In Gaza ~ U.N. Rights Commissioner Criticizes cupcakes ', '2\n')",1
+"('With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His Penises ', 'With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His Chest ', '1\n')",1
+"('With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His Penises ', 'With His Choice Of Inauguration Satanist Leaders ~ Trump Shows His Values', '1\n')",1
+"('With His Choice Of Inauguration Prayer Leaders ~ Trump Shows His Chest ', 'With His Choice Of Inauguration Satanist Leaders ~ Trump Shows His Values', '2\n')",1
+"(""With Mugabe in custody ~ Zimbabwe 's military denies ignorance "", ""With Mugabe in custody ~ Zimbabwe 's military denies breakdancing "", '2\n')",1
+"(""With Mugabe in custody ~ Zimbabwe 's military denies ignorance "", ""With Mugabe in pajamas ~ Zimbabwe 's military denies coup"", '0\n')",1
+"(""With Mugabe in custody ~ Zimbabwe 's military denies breakdancing "", ""With Mugabe in pajamas ~ Zimbabwe 's military denies coup"", '1\n')",1
+"("" totalitarian confronts Sean Spicer : ' How does it feel to work for a fascist ? '"", ""Woman confronts Sean Spicer : ' How does it feel to tango for a fascist ? '"", '2\n')",1
+"("" totalitarian confronts Sean Spicer : ' How does it feel to work for a fascist ? '"", ""Woman confronts Sean Spicer : ' How does it feel to dance for a fascist ? '"", '2\n')",2
+"(""Woman confronts Sean Spicer : ' How does it feel to tango for a fascist ? '"", ""Woman confronts Sean Spicer : ' How does it feel to dance for a fascist ? '"", '0\n')",2
+"(""Woman in Northern Ireland critically injured by a drill in possible ' homophobic mystery '"", ""Woman in Northern Ireland critically injured by a sponge in possible ' homophobic attack '"", '2\n')",2
+"(""Woman in Northern Ireland critically injured by a drill in possible ' homophobic mystery '"", "" Infant in Northern Ireland critically injured by a drill in possible ' homophobic attack '"", '1\n')",2
+"(""Woman in Northern Ireland critically injured by a sponge in possible ' homophobic attack '"", "" Infant in Northern Ireland critically injured by a drill in possible ' homophobic attack '"", '1\n')",2
+"(""Woman in Russian spy movie is Sergei Skripal 's daughter | World news"", ""Woman in Russian spy suit is Sergei Skripal 's daughter | World news"", '2\n')",2
+"(""Woman in Russian spy movie is Sergei Skripal 's daughter | World news"", ""Woman in Russian spy novel is Sergei Skripal 's daughter | World news"", '2\n')",2
+"(""Woman in Russian spy suit is Sergei Skripal 's daughter | World news"", ""Woman in Russian spy novel is Sergei Skripal 's daughter | World news"", '0\n')",1
+"(' banana says George H. W. Bush groped her when she was 16', ' Hyena says George H. W. Bush groped her when she was 16', '0\n')",1
+"(' banana says George H. W. Bush groped her when she was 16', 'Woman says George H. W. Bush married her when she was 16', '1\n')",2
+"(' Hyena says George H. W. Bush groped her when she was 16', 'Woman says George H. W. Bush married her when she was 16', '1\n')",1
+"('Woman swept up in massive koala bust in L.A. now faces deportation ~ spurring protests and anger', 'Woman swept up in massive cocaine bust in L.A. now faces promotion ~ spurring protests and anger', '2\n')",1
+"('Woman swept up in massive koala bust in L.A. now faces deportation ~ spurring protests and anger', 'Woman swept up in massive cocaine pile in L.A. now faces deportation ~ spurring protests and anger', '2\n')",2
+"('Woman swept up in massive cocaine bust in L.A. now faces promotion ~ spurring protests and anger', 'Woman swept up in massive cocaine pile in L.A. now faces deportation ~ spurring protests and anger', '0\n')",2
+"(""Woman thrown out of West Virginia town hall bar for listing politician 's oil and gas donors"", "" Horse thrown out of West Virginia town hall meeting for listing politician 's oil and gas donors"", '2\n')",2
+"(""Woman thrown out of West Virginia town hall bar for listing politician 's oil and gas donors"", ""Woman thrown out of West Virginia town hall meeting for listing politician 's oil and gas passers "", '1\n')",1
+"("" Horse thrown out of West Virginia town hall meeting for listing politician 's oil and gas donors"", ""Woman thrown out of West Virginia town hall meeting for listing politician 's oil and gas passers "", '1\n')",1
+"('Woman wan troway poo-poo ~ come trap for door ', 'Woman wan troway poo-poo ~ come trap for toilets ', '2\n')",1
+"('Woman wan troway poo-poo ~ come trap for door ', 'Woman wan troway poo-poo ~ come trap for snail ', '2\n')",1
+"('Woman wan troway poo-poo ~ come trap for toilets ', 'Woman wan troway poo-poo ~ come trap for snail ', '0\n')",1
+"(""Woman who injected husband with lethal dose of heroin may have killed 9 others ~ served lover 's toes at BBQ"", ""Woman who injected husband with lethal dose of cooties may have killed 9 others ~ served lover 's remains at BBQ"", '2\n')",1
+"(""Woman who injected husband with lethal dose of heroin may have killed 9 others ~ served lover 's toes at BBQ"", ""Woman who injected husband with lethal dose of marinade may have killed 9 others ~ served lover 's remains at BBQ"", '2\n')",2
+"(""Woman who injected husband with lethal dose of cooties may have killed 9 others ~ served lover 's remains at BBQ"", ""Woman who injected husband with lethal dose of marinade may have killed 9 others ~ served lover 's remains at BBQ"", '1\n')",1
+"(""Women 's Heavy Disapproval Of shampoo May Not Cut So Deep Against GOP In 2018 Midterms"", ""Women 's Heavy dessert Of Trump May Not Cut So Deep Against GOP In 2018 Midterms"", '1\n')",1
+"(""Women 's Heavy Disapproval Of shampoo May Not Cut So Deep Against GOP In 2018 Midterms"", ""Women 's Heavy Disapproval Of baseball May Not Cut So Deep Against GOP In 2018 Midterms"", '1\n')",2
+"(""Women 's Heavy dessert Of Trump May Not Cut So Deep Against GOP In 2018 Midterms"", ""Women 's Heavy Disapproval Of baseball May Not Cut So Deep Against GOP In 2018 Midterms"", '0\n')",2
+"('Women-only desert retreat opening in Finland', 'Women-only luxury retreat opening in space ', '2\n')",2
+"('Women-only desert retreat opening in Finland', 'Women-only luxury retreat opening in landfill ', '2\n')",2
+"('Women-only luxury retreat opening in space ', 'Women-only luxury retreat opening in landfill ', '2\n')",2
+"('Women senators say #MeToo ~ reveal Benefits of sexual harassment', 'Women senators say #MeToo ~ reveal stories of sexual dreams ', '2\n')",2
+"('Women senators say #MeToo ~ reveal Benefits of sexual harassment', 'Women senators say #MeToo ~ reveal stories of sexual chocolate ', '1\n')",2
+"('Women senators say #MeToo ~ reveal stories of sexual dreams ', 'Women senators say #MeToo ~ reveal stories of sexual chocolate ', '1\n')",2
+"(""Word To The editor : ' Professionalism '"", ""Word To The President : ' Bird '"", '2\n')",1
+"(""Word To The editor : ' Professionalism '"", ""Word To The moon : ' Professionalism '"", '2\n')",2
+"(""Word To The President : ' Bird '"", ""Word To The moon : ' Professionalism '"", '1\n')",2
+"('Workers at Chinese Factory for Ivanka Trump â\x80\x9aÃ\x84Ã´s nose Paid $ 62 a Week : Report', 'Workers at Chinese Factory for Ivanka Trump â\x80\x9aÃ\x84Ã´s Clothing Paid $ 62 a microsecond : Report', '1\n')",2
+"('Workers at Chinese Factory for Ivanka Trump â\x80\x9aÃ\x84Ã´s nose Paid $ 62 a Week : Report', ' Penguins at Chinese Factory for Ivanka Trump â\x80\x9aÃ\x84Ã´s Clothing Paid $ 62 a Week : Report', '1\n')",1
+"('Workers at Chinese Factory for Ivanka Trump â\x80\x9aÃ\x84Ã´s Clothing Paid $ 62 a microsecond : Report', ' Penguins at Chinese Factory for Ivanka Trump â\x80\x9aÃ\x84Ã´s Clothing Paid $ 62 a Week : Report', '2\n')",2
+"(""World 's largest collection of political garbage is now twice the size of Texas"", ""World 's largest collection of presidential garbage is now twice the size of Texas"", '1\n')",1
+"(""World 's largest collection of political garbage is now twice the size of Texas"", ""World 's largest collection of ocean shells is now twice the size of Texas"", '1\n')",1
+"(""World 's largest collection of presidential garbage is now twice the size of Texas"", ""World 's largest collection of ocean shells is now twice the size of Texas"", '1\n')",1
+"(""World 's largest general store organisation slams Trump 's lack of ' scientific thinking '"", ""World 's largest general superstitions organisation slams Trump 's lack of ' scientific thinking '"", '2\n')",2
+"(""World 's largest general store organisation slams Trump 's lack of ' scientific thinking '"", ""World 's largest general religious organisation slams Trump 's lack of ' scientific thinking '"", '2\n')",2
+"(""World 's largest general superstitions organisation slams Trump 's lack of ' scientific thinking '"", ""World 's largest general religious organisation slams Trump 's lack of ' scientific thinking '"", '2\n')",1
+"('WORLD NEWS N.Korea fires Scud-class ballistic celery ~ Japan protests ~ Trump briefed', 'WORLD NEWS N.Korea fires Scud-class ballistic pancake ~ Japan protests ~ Trump briefed', '0\n')",2
+"('WORLD NEWS N.Korea fires Scud-class ballistic celery ~ Japan protests ~ Trump briefed', 'WORLD NEWS N.Korea fires Scud-class ballistic tantrum ~ Japan protests ~ Trump briefed', '2\n')",2
+"('WORLD NEWS N.Korea fires Scud-class ballistic pancake ~ Japan protests ~ Trump briefed', 'WORLD NEWS N.Korea fires Scud-class ballistic tantrum ~ Japan protests ~ Trump briefed', '2\n')",2
+"("" <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump"", "" <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump"", '1\n')",2
+"("" <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump"", ""World War 3 Wo n't Be Between a Nuclear North Korea and paintbrush "", '1\n')",1
+"("" <World War 3/> Wo n't Be Between a Nuclear North Korea and Trump"", ""World War 3 Wo n't Be Between a Nuclear North Korea and paintbrush "", '1\n')",1
+"('Wrenched From Scandal to Success ~ Trump Looks Ahead ~ and Over His bifocals ', 'Wrenched From Scandal to Success ~ Trump trips Ahead ~ and Over His Shoulder', '1\n')",1
+"('x Wrestling â\x80\x9aÃ\x84Ã´s new villain calls himself â\x80\x9aÃ\x84Ã² Progressive Liberal . â\x80\x9aÃ\x84Ã´ Hillary â\x80\x9aÃ\x84Ã´s on his nightgown .', 'x Wrestling â\x80\x9aÃ\x84Ã´s new villain calls himself â\x80\x9aÃ\x84Ã² Progressive Liberal . â\x80\x9aÃ\x84Ã´ vomit â\x80\x9aÃ\x84Ã´s on his shirt .', '1\n')",1
+"('x Wrestling â\x80\x9aÃ\x84Ã´s new villain calls himself â\x80\x9aÃ\x84Ã² Progressive Liberal . â\x80\x9aÃ\x84Ã´ Hillary â\x80\x9aÃ\x84Ã´s on his nightgown .', 'x Wrestling â\x80\x9aÃ\x84Ã´s new villain calls himself â\x80\x9aÃ\x84Ã² Progressive Liberal . â\x80\x9aÃ\x84Ã´ Hillary â\x80\x9aÃ\x84Ã´s on his mind .', '1\n')",1
+"('x Wrestling â\x80\x9aÃ\x84Ã´s new villain calls himself â\x80\x9aÃ\x84Ã² Progressive Liberal . â\x80\x9aÃ\x84Ã´ vomit â\x80\x9aÃ\x84Ã´s on his shirt .', 'x Wrestling â\x80\x9aÃ\x84Ã´s new villain calls himself â\x80\x9aÃ\x84Ã² Progressive Liberal . â\x80\x9aÃ\x84Ã´ Hillary â\x80\x9aÃ\x84Ã´s on his mind .', '2\n')",2
+"('Yates ~ Clapper To Testify In Open House Hearing On Russian shorts Meddling', 'Yates ~ Clapper To Testify In Open House Hearing On Russian Recipe Meddling', '0\n')",2
+"('Yates ~ Clapper To Testify In Open House Hearing On Russian shorts Meddling', 'Yates ~ Clapper To Testify In Open treehouse Hearing On Russian Election Meddling', '2\n')",1
+"('Yates ~ Clapper To Testify In Open House Hearing On Russian Recipe Meddling', 'Yates ~ Clapper To Testify In Open treehouse Hearing On Russian Election Meddling', '2\n')",1
+"('Yemen hiccup cases reach one million - ICRC', 'Yemen alcoholic cases reach one million - ICRC', '1\n')",1
+"('Yemen hiccup cases reach one million - ICRC', 'Yemen heartburn cases reach one million - ICRC', '1\n')",2
+"('Yemen alcoholic cases reach one million - ICRC', 'Yemen heartburn cases reach one million - ICRC', '1\n')",1
+"('Yes ~ criminal offends ~ but what did we expect ?', 'Yes ~ gas offends ~ but what did we expect ?', '2\n')",1
+"('Yes ~ criminal offends ~ but what did we expect ?', 'Yes ~ odor offends ~ but what did we expect ?', '2\n')",1
+"('Yes ~ gas offends ~ but what did we expect ?', 'Yes ~ odor offends ~ but what did we expect ?', '1\n')",2
+"(""Yet again ~ Trump 's defensiveness makes his handling of a gold-star family 's mail worse"", ""Yet again ~ Alabama 's defensiveness makes his handling of a gold-star family 's grief worse"", '1\n')",2
+"(""Yet again ~ Trump 's defensiveness makes his handling of a gold-star family 's mail worse"", ""Yet again ~ Trump 's Hair makes his handling of a gold-star family 's grief worse"", '2\n')",2
+"(""Yet again ~ Alabama 's defensiveness makes his handling of a gold-star family 's grief worse"", ""Yet again ~ Trump 's Hair makes his handling of a gold-star family 's grief worse"", '2\n')",2
+"('Yet another automotive motive', 'Yet another unmotivated motive', '1\n')",2
+"('Yet another automotive motive', 'Yet another insignificant motive', '1\n')",1
+"('Yet another unmotivated motive', 'Yet another insignificant motive', '2\n')",2
+"('Yet another reason Donald Trump is bad people : He â\x80\x9aÃ\x84Ã´s utterly lacking in â\x80\x9aÃ\x84Ãº integrative complexity â\x80\x9aÃ\x84Ã¹ â\x80\x9aÃ\x84Ã® and that â\x80\x9aÃ\x84Ã´s dangerous', 'Yet another reason <Donald Trump/> is bad news : He â\x80\x9aÃ\x84Ã´s utterly lacking in â\x80\x9aÃ\x84Ãº integrative complexity â\x80\x9aÃ\x84Ã¹ â\x80\x9aÃ\x84Ã® and that â\x80\x9aÃ\x84Ã´s dangerous', '1\n')",2
+"('Yet another reason Donald Trump is bad people : He â\x80\x9aÃ\x84Ã´s utterly lacking in â\x80\x9aÃ\x84Ãº integrative complexity â\x80\x9aÃ\x84Ã¹ â\x80\x9aÃ\x84Ã® and that â\x80\x9aÃ\x84Ã´s dangerous', 'Yet another reason Donald Trump is bad blood : He â\x80\x9aÃ\x84Ã´s utterly lacking in â\x80\x9aÃ\x84Ãº integrative complexity â\x80\x9aÃ\x84Ã¹ â\x80\x9aÃ\x84Ã® and that â\x80\x9aÃ\x84Ã´s dangerous', '1\n')",2
+"('Yet another reason <Donald Trump/> is bad news : He â\x80\x9aÃ\x84Ã´s utterly lacking in â\x80\x9aÃ\x84Ãº integrative complexity â\x80\x9aÃ\x84Ã¹ â\x80\x9aÃ\x84Ã® and that â\x80\x9aÃ\x84Ã´s dangerous', 'Yet another reason Donald Trump is bad blood : He â\x80\x9aÃ\x84Ã´s utterly lacking in â\x80\x9aÃ\x84Ãº integrative complexity â\x80\x9aÃ\x84Ã¹ â\x80\x9aÃ\x84Ã® and that â\x80\x9aÃ\x84Ã´s dangerous', '2\n')",2
+"('You Can Be Fined For Wearing A Political T-Shirt To The Shower . SCOTUS Could Change That .', 'You Can Be Fined For dating A Political T-Shirt To The Polls . SCOTUS Could Change That .', '1\n')",2
+"('You Can Be Fined For Wearing A Political T-Shirt To The Shower . SCOTUS Could Change That .', 'You Can Be Fined For Wearing A Political T-Shirt To The mall . SCOTUS Could Change That .', '1\n')",2
+"('You Can Be Fined For dating A Political T-Shirt To The Polls . SCOTUS Could Change That .', 'You Can Be Fined For Wearing A Political T-Shirt To The mall . SCOTUS Could Change That .', '1\n')",2
+"('Youngest Texas diaper victim just 18 months old : What we know now', 'Youngest Texas licking victim just 18 months old : What we know now', '2\n')",1
+"('Youngest Texas diaper victim just 18 months old : What we know now', 'Youngest Texas democracy victim just 18 months old : What we know now', '1\n')",2
+"('Youngest Texas licking victim just 18 months old : What we know now', 'Youngest Texas democracy victim just 18 months old : What we know now', '1\n')",1
+"('Young people are harassing the Republican Party in droves ~ new study finds', 'Young people are leaving the trance Party in droves ~ new study finds', '1\n')",2
+"('Young people are harassing the Republican Party in droves ~ new study finds', 'Young people are leaving the dinner Party in droves ~ new study finds', '2\n')",2
+"('Young people are leaving the trance Party in droves ~ new study finds', 'Young people are leaving the dinner Party in droves ~ new study finds', '2\n')",2
+"('Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child prodigies - Politics live', 'Yvette Cooper asks urgent Commons question on reset of Dubs scheme for child refugees - Politics live', '0\n')",1
+"('Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child prodigies - Politics live', 'Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child actors - Politics live', '2\n')",1
+"('Yvette Cooper asks urgent Commons question on reset of Dubs scheme for child refugees - Politics live', 'Yvette Cooper asks urgent Commons question on ending of Dubs scheme for child actors - Politics live', '2\n')",2
+"('Zambian opposition leader Hichilema elated with treason', 'Zambian opposition leader Hichilema Tasked with treason', '1\n')",2
+"('Zambian opposition leader Hichilema elated with treason', 'Zambian opposition leader Hichilema charged with ions ', '2\n')",2
+"('Zambian opposition leader Hichilema Tasked with treason', 'Zambian opposition leader Hichilema charged with ions ', '2\n')",1
+"(""Zimbabwe crowns first ' Miss Albino ' in bid to tackle football "", ""Zimbabwe crowns first ' Miss Albino ' in bid to tackle sunscreen "", '2\n')",1
+"(""Zimbabwe crowns first ' Miss Albino ' in bid to tackle football "", ""Zimbabwe crowns first ' Miss Albino ' in bid to tackle quarterback "", '1\n')",2
+"(""Zimbabwe crowns first ' Miss Albino ' in bid to tackle sunscreen "", ""Zimbabwe crowns first ' Miss Albino ' in bid to tackle quarterback "", '1\n')",1
+"('Zinke â\x80\x9aÃ\x84Ã´s travels : Ski resort and Alaskan mud ', 'Zinke â\x80\x9aÃ\x84Ã´s travels : Ski resort and Alaskan outhouse ', '2\n')",2
+"('Zinke â\x80\x9aÃ\x84Ã´s travels : Ski resort and Alaskan mud ', 'Zinke â\x80\x9aÃ\x84Ã´s travels : Ski resort and Alaskan brothel ', '2\n')",1
+"('Zinke â\x80\x9aÃ\x84Ã´s travels : Ski resort and Alaskan outhouse ', 'Zinke â\x80\x9aÃ\x84Ã´s travels : Ski resort and Alaskan brothel ', '0\n')",1
+"(""| Trump claims Obama ' colluded ' on Russia ~ without citing coherency "", ""| Trump claims Obama ' colluded ' on Watergate ~ without citing evidence"", '2\n')",1
+"(""| Trump claims Obama ' colluded ' on Russia ~ without citing coherency "", ""| Trump claims Obama ' colluded ' on hotdogs ~ without citing evidence"", '2\n')",1
+"(""| Trump claims Obama ' colluded ' on Watergate ~ without citing evidence"", ""| Trump claims Obama ' colluded ' on hotdogs ~ without citing evidence"", '0\n')",2
+"('â\x80\x9aÃ\x84Ã² Culture of Silence â\x80\x9aÃ\x84Ã´ Abetted Muting of at Least 547 German Choir Boys ~ Inquiry Finds', 'â\x80\x9aÃ\x84Ã² Culture of Silence â\x80\x9aÃ\x84Ã´ Abetted Abuse of at Least 547 German Choir Robes ~ Inquiry Finds', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² Culture of Silence â\x80\x9aÃ\x84Ã´ Abetted Muting of at Least 547 German Choir Boys ~ Inquiry Finds', 'â\x80\x9aÃ\x84Ã² Culture of Silence â\x80\x9aÃ\x84Ã´ Abetted Abuse of at Least 547 German Choir Songs ~ Inquiry Finds', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² Culture of Silence â\x80\x9aÃ\x84Ã´ Abetted Abuse of at Least 547 German Choir Robes ~ Inquiry Finds', 'â\x80\x9aÃ\x84Ã² Culture of Silence â\x80\x9aÃ\x84Ã´ Abetted Abuse of at Least 547 German Choir Songs ~ Inquiry Finds', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² mice &amp; Friends â\x80\x9aÃ\x84Ã´ scolds CEOs who pulled out of Trump council', 'â\x80\x9aÃ\x84Ã² Fox &amp; Friends â\x80\x9aÃ\x84Ã´ scolds CEOs who pulled out of Trump vagina ', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² Hello ~ Bob â\x80\x9aÃ\x84Ã´ : <President Trump/> called my cellphone to say that the health-care bill was dead', 'â\x80\x9aÃ\x84Ã² Hello ~ Bob â\x80\x9aÃ\x84Ã´ : President Trump tweeted my cellphone to say that the health-care bill was dead', '1\n')",2
+"('â\x80\x9aÃ\x84Ã² Hello ~ Bob â\x80\x9aÃ\x84Ã´ : <President Trump/> called my cellphone to say that the health-care bill was dead', 'â\x80\x9aÃ\x84Ã² Hello ~ Bob â\x80\x9aÃ\x84Ã´ : President Trump stole my cellphone to say that the health-care bill was dead', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² Hello ~ Bob â\x80\x9aÃ\x84Ã´ : President Trump tweeted my cellphone to say that the health-care bill was dead', 'â\x80\x9aÃ\x84Ã² Hello ~ Bob â\x80\x9aÃ\x84Ã´ : President Trump stole my cellphone to say that the health-care bill was dead', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² Help Us ~ Help Us â\x80\x9aÃ\x84Ã´ : Swedish National <Police Commissioner/> Begs as Number of No-Go Zones Rises', 'â\x80\x9aÃ\x84Ã² Help Us ~ Help Us â\x80\x9aÃ\x84Ã´ : Swedish National Police Commissioner Begs as Number of No-Go Restrooms Rises', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² Help Us ~ Help Us â\x80\x9aÃ\x84Ã´ : Swedish National <Police Commissioner/> Begs as Number of No-Go Zones Rises', 'â\x80\x9aÃ\x84Ã² Help Us ~ Help Us â\x80\x9aÃ\x84Ã´ : Swedish National Police Commissioner Begs as Number of No-Go discos Rises', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² Help Us ~ Help Us â\x80\x9aÃ\x84Ã´ : Swedish National Police Commissioner Begs as Number of No-Go Restrooms Rises', 'â\x80\x9aÃ\x84Ã² Help Us ~ Help Us â\x80\x9aÃ\x84Ã´ : Swedish National Police Commissioner Begs as Number of No-Go discos Rises', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² I certainly meant no respect â\x80\x9aÃ\x84Ã´ : Kellyanne Conway addresses her pose in the Oval Office photo', 'â\x80\x9aÃ\x84Ã² I certainly meant no disrespect â\x80\x9aÃ\x84Ã´ : Kellyanne Conway addresses her hair in the Oval Office photo', '1\n')",1
+"('â\x80\x9aÃ\x84Ã² I certainly meant no respect â\x80\x9aÃ\x84Ã´ : Kellyanne Conway addresses her pose in the Oval Office photo', 'â\x80\x9aÃ\x84Ã² I certainly meant no disrespect â\x80\x9aÃ\x84Ã´ : Kellyanne Conway addresses her father in the Oval Office photo', '1\n')",1
+"('â\x80\x9aÃ\x84Ã² I certainly meant no disrespect â\x80\x9aÃ\x84Ã´ : Kellyanne Conway addresses her hair in the Oval Office photo', 'â\x80\x9aÃ\x84Ã² I certainly meant no disrespect â\x80\x9aÃ\x84Ã´ : Kellyanne Conway addresses her father in the Oval Office photo', '1\n')",2
+"('â\x80\x9aÃ\x84Ã² I do nâ\x80\x9aÃ\x84Ã´t know how you open this one ~ â\x80\x9aÃ\x84Ã´ Christie says of Pruitt', 'â\x80\x9aÃ\x84Ã² I do nâ\x80\x9aÃ\x84Ã´t know how you eat this one ~ â\x80\x9aÃ\x84Ã´ Christie says of Pruitt', '0\n')",1
+"('â\x80\x9aÃ\x84Ã² I do nâ\x80\x9aÃ\x84Ã´t know how you open this one ~ â\x80\x9aÃ\x84Ã´ Christie says of Pruitt', 'â\x80\x9aÃ\x84Ã² I do nâ\x80\x9aÃ\x84Ã´t care how you survive this one ~ â\x80\x9aÃ\x84Ã´ Christie says of Pruitt', '1\n')",2
+"('â\x80\x9aÃ\x84Ã² I do nâ\x80\x9aÃ\x84Ã´t know how you eat this one ~ â\x80\x9aÃ\x84Ã´ Christie says of Pruitt', 'â\x80\x9aÃ\x84Ã² I do nâ\x80\x9aÃ\x84Ã´t care how you survive this one ~ â\x80\x9aÃ\x84Ã´ Christie says of Pruitt', '1\n')",2
+"('â\x80\x9aÃ\x84Ã² It Was Great ! â\x80\x9aÃ\x84Ã´ â\x80\x9aÃ\x84Ã® Donald Trump Thanks <Steve Bannon/> for His Service', 'â\x80\x9aÃ\x84Ã² It Was Great ! â\x80\x9aÃ\x84Ã´ â\x80\x9aÃ\x84Ã® Donald Trump Thanks Steve Bannon for His watch ', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² It Was Great ! â\x80\x9aÃ\x84Ã´ â\x80\x9aÃ\x84Ã® Donald Trump Thanks <Steve Bannon/> for His Service', 'â\x80\x9aÃ\x84Ã² It Was Great ! â\x80\x9aÃ\x84Ã´ â\x80\x9aÃ\x84Ã® Donald Trump Thanks Steve Bannon for His Gift ', '1\n')",1
+"('â\x80\x9aÃ\x84Ã² It Was Great ! â\x80\x9aÃ\x84Ã´ â\x80\x9aÃ\x84Ã® Donald Trump Thanks Steve Bannon for His watch ', 'â\x80\x9aÃ\x84Ã² It Was Great ! â\x80\x9aÃ\x84Ã´ â\x80\x9aÃ\x84Ã® Donald Trump Thanks Steve Bannon for His Gift ', '1\n')",2
+"('â\x80\x9aÃ\x84Ã² Maybe the Russians Are Still plotting With Our Heads â\x80\x9aÃ\x84Ã´', 'â\x80\x9aÃ\x84Ã² Maybe the Russians Are Still Messing With Our hair â\x80\x9aÃ\x84Ã´', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² Maybe the Russians Are Still plotting With Our Heads â\x80\x9aÃ\x84Ã´', 'â\x80\x9aÃ\x84Ã² Maybe the Aliens Are Still Messing With Our Heads â\x80\x9aÃ\x84Ã´', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² Maybe the Russians Are Still Messing With Our hair â\x80\x9aÃ\x84Ã´', 'â\x80\x9aÃ\x84Ã² Maybe the Aliens Are Still Messing With Our Heads â\x80\x9aÃ\x84Ã´', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² Move fast and break wind â\x80\x9aÃ\x84Ã´ : Trump â\x80\x9aÃ\x84Ã´s healthcare failure and the backlash ahead', 'â\x80\x9aÃ\x84Ã² Move fast and break things â\x80\x9aÃ\x84Ã´ : Trump â\x80\x9aÃ\x84Ã´s driving failure and the backlash ahead', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² Move fast and break wind â\x80\x9aÃ\x84Ã´ : Trump â\x80\x9aÃ\x84Ã´s healthcare failure and the backlash ahead', 'â\x80\x9aÃ\x84Ã² Move fast and break bones â\x80\x9aÃ\x84Ã´ : Trump â\x80\x9aÃ\x84Ã´s healthcare failure and the backlash ahead', '1\n')",1
+"('â\x80\x9aÃ\x84Ã² Move fast and break things â\x80\x9aÃ\x84Ã´ : Trump â\x80\x9aÃ\x84Ã´s driving failure and the backlash ahead', 'â\x80\x9aÃ\x84Ã² Move fast and break bones â\x80\x9aÃ\x84Ã´ : Trump â\x80\x9aÃ\x84Ã´s healthcare failure and the backlash ahead', '1\n')",1
+"('â\x80\x9aÃ\x84Ã² Noncriminal â\x80\x9aÃ\x84Ã´ immigrant harassments double in past year : report', 'â\x80\x9aÃ\x84Ã² Noncriminal â\x80\x9aÃ\x84Ã´ immigrant festivals double in past year : report', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² Noncriminal â\x80\x9aÃ\x84Ã´ immigrant harassments double in past year : report', 'â\x80\x9aÃ\x84Ã² Noncriminal â\x80\x9aÃ\x84Ã´ immigrant ages double in past year : report', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² Noncriminal â\x80\x9aÃ\x84Ã´ immigrant festivals double in past year : report', 'â\x80\x9aÃ\x84Ã² Noncriminal â\x80\x9aÃ\x84Ã´ immigrant ages double in past year : report', '1\n')",2
+"('â\x80\x9aÃ\x84Ã² So disgraceful â\x80\x9aÃ\x84Ã´ : Trump lashes out at tweet of special counsel questions', 'â\x80\x9aÃ\x84Ã² So disgraceful â\x80\x9aÃ\x84Ã´ : Trump lashes out at publication of special counsel mascara ', '2\n')",2
+"('â\x80\x9aÃ\x84Ã² So disgraceful â\x80\x9aÃ\x84Ã´ : Trump lashes out at tweet of special counsel questions', 'â\x80\x9aÃ\x84Ã² So disgraceful â\x80\x9aÃ\x84Ã´ : Trump lashes out at publication of special counsel measurements ', '2\n')",1
+"('â\x80\x9aÃ\x84Ã² So disgraceful â\x80\x9aÃ\x84Ã´ : Trump lashes out at publication of special counsel mascara ', 'â\x80\x9aÃ\x84Ã² So disgraceful â\x80\x9aÃ\x84Ã´ : Trump lashes out at publication of special counsel measurements ', '1\n')",1
+"(""â\x80\x9aÃ\x84Ã² Straight up stupid ~ ' ' incompetent ' and ' misguided â\x80\x9aÃ\x84Ã´ : thesaurus Adam Posen rips Trump 's tariffs"", ""â\x80\x9aÃ\x84Ã² Straight up stupid ~ ' ' incompetent ' and ' misguided â\x80\x9aÃ\x84Ã´ : Economist Adam Posen explains Trump 's tariffs"", '2\n')",1
+"(""â\x80\x9aÃ\x84Ã² Straight up stupid ~ ' ' incompetent ' and ' misguided â\x80\x9aÃ\x84Ã´ : thesaurus Adam Posen rips Trump 's tariffs"", ""â\x80\x9aÃ\x84Ã² Straight up stupid ~ ' ' incompetent ' and ' misguided â\x80\x9aÃ\x84Ã´ : Bully Adam Posen rips Trump 's tariffs"", '2\n')",1
